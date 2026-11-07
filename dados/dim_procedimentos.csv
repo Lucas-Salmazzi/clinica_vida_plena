@@ -1,0 +1,20 @@
+id_procedimento,procedimento,categoria,especialidade,valor_tabela,duracao_min
+1,Consulta Clínica Geral,Consulta,Clínica Geral,260,30
+2,Consulta Pediátrica,Consulta,Pediatria,280,30
+3,Consulta Cardiológica,Consulta,Cardiologia,380,40
+4,Consulta Dermatológica,Consulta,Dermatologia,340,30
+5,Consulta Ortopédica,Consulta,Ortopedia,350,30
+6,Consulta Ginecológica,Consulta,Ginecologia,320,40
+7,Consulta Endocrinológica,Consulta,Endocrinologia,360,40
+8,Consulta Oftalmológica,Consulta,Oftalmologia,300,30
+9,Consulta Psiquiátrica,Consulta,Psiquiatria,400,50
+10,Eletrocardiograma,Exame,Cardiologia,120,20
+11,Ecocardiograma,Exame,Cardiologia,450,40
+12,Hemograma Completo,Exame,Clínica Geral,90,15
+13,Ultrassom Abdominal,Exame,Clínica Geral,240,30
+14,Glicemia e Hemoglobina Glicada,Exame,Endocrinologia,110,15
+15,Ultrassom Pélvico,Exame,Ginecologia,230,30
+16,Mapeamento de Retina,Exame,Oftalmologia,280,25
+17,Radiografia Osteoarticular,Exame,Ortopedia,160,20
+18,Pequena Cirurgia Dermatológica,Procedimento,Dermatologia,520,60
+19,Infiltração Articular,Procedimento,Ortopedia,480,40

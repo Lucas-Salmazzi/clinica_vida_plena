@@ -1,0 +1,6 @@
+id_convenio,convenio,tipo,percentual_tabela,prazo_pagamento_dias
+1,Particular,Particular,1.0,0
+2,Vida Saúde,Plano de saúde,0.8,30
+3,Medfácil,Plano de saúde,0.75,45
+4,Prime Care,Plano de saúde,0.85,30
+5,Bem Estar,Plano de saúde,0.7,60

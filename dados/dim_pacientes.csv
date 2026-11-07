@@ -1,0 +1,2086 @@
+id_paciente,sexo,data_nascimento,idade,faixa_etaria,cidade,data_cadastro
+1,Feminino,1972-01-28,54,45-59,Barueri,2019-01-02
+2,Feminino,1975-04-14,51,45-59,São Paulo,2019-01-04
+3,Feminino,1991-07-18,35,30-44,Osasco,2019-01-05
+4,Masculino,1967-12-11,58,45-59,São Paulo,2019-01-06
+5,Feminino,2024-04-05,2,00-12,São Paulo,2019-01-07
+6,Feminino,1997-01-17,29,18-29,São Paulo,2019-01-14
+7,Feminino,1999-03-05,27,18-29,São Paulo,2019-01-16
+8,Masculino,1975-12-05,50,45-59,São Paulo,2019-01-19
+9,Feminino,2003-05-06,23,18-29,São Paulo,2019-01-29
+10,Feminino,1994-08-19,32,30-44,São Paulo,2019-01-30
+11,Feminino,1994-01-04,32,30-44,Guarulhos,2019-02-01
+12,Feminino,1983-03-25,43,30-44,São Paulo,2019-02-06
+13,Masculino,1965-01-05,61,60+,São Paulo,2019-02-07
+14,Masculino,1985-03-07,41,30-44,São Paulo,2019-02-08
+15,Feminino,2002-01-13,24,18-29,São Paulo,2019-02-09
+16,Masculino,1984-11-09,41,30-44,São Paulo,2019-02-12
+17,Feminino,1987-08-29,39,30-44,Barueri,2019-02-12
+18,Feminino,1963-05-23,63,60+,São Paulo,2019-02-15
+19,Masculino,1958-08-26,68,60+,São Paulo,2019-02-19
+20,Feminino,1995-10-23,31,30-44,São Paulo,2019-02-23
+21,Feminino,1966-01-31,60,60+,São Paulo,2019-03-02
+22,Masculino,2021-11-19,4,00-12,São Paulo,2019-03-03
+23,Masculino,2022-03-03,4,00-12,São Bernardo do Campo,2019-03-07
+24,Masculino,1975-01-23,51,45-59,Taboão da Serra,2019-03-09
+25,Feminino,1985-03-27,41,30-44,São Paulo,2019-03-13
+26,Masculino,2018-06-23,8,00-12,São Bernardo do Campo,2019-03-17
+27,Masculino,2019-05-28,7,00-12,São Paulo,2019-03-20
+28,Feminino,2014-06-27,12,00-12,São Paulo,2019-03-20
+29,Feminino,1973-05-21,53,45-59,Taboão da Serra,2019-03-21
+30,Feminino,2019-05-25,7,00-12,São Paulo,2019-03-21
+31,Feminino,1978-06-25,48,45-59,São Paulo,2019-03-23
+32,Masculino,1964-10-24,62,60+,Osasco,2019-03-25
+33,Feminino,1970-12-30,55,45-59,Taboão da Serra,2019-03-25
+34,Feminino,1996-01-22,30,30-44,São Bernardo do Campo,2019-03-28
+35,Feminino,2017-08-28,9,00-12,São Paulo,2019-03-29
+36,Feminino,1990-12-01,35,30-44,São Paulo,2019-03-29
+37,Feminino,1972-01-26,54,45-59,Osasco,2019-04-04
+38,Masculino,1996-08-13,30,30-44,São Paulo,2019-04-04
+39,Masculino,2018-12-12,7,00-12,Santo André,2019-04-08
+40,Feminino,1990-01-26,36,30-44,São Paulo,2019-04-08
+41,Masculino,2009-10-31,16,13-17,São Paulo,2019-04-11
+42,Feminino,1984-09-24,42,30-44,Santo André,2019-04-11
+43,Feminino,2023-02-24,3,00-12,São Paulo,2019-04-22
+44,Feminino,1982-10-07,44,30-44,São Paulo,2019-04-29
+45,Feminino,1983-04-12,43,30-44,Taboão da Serra,2019-04-30
+46,Masculino,2025-07-25,1,00-12,Guarulhos,2019-05-03
+47,Feminino,2006-08-29,20,18-29,São Paulo,2019-05-06
+48,Feminino,2012-04-20,14,13-17,São Bernardo do Campo,2019-05-09
+49,Masculino,2012-09-24,14,13-17,São Paulo,2019-05-10
+50,Masculino,1971-09-19,55,45-59,São Paulo,2019-05-11
+51,Feminino,1991-03-09,35,30-44,São Paulo,2019-05-11
+52,Masculino,1972-02-12,54,45-59,São Paulo,2019-05-12
+53,Masculino,1975-07-14,51,45-59,São Paulo,2019-05-13
+54,Masculino,1979-03-28,47,45-59,São Paulo,2019-05-19
+55,Feminino,2021-12-04,4,00-12,São Paulo,2019-05-20
+56,Masculino,1970-02-13,56,45-59,Osasco,2019-05-22
+57,Feminino,1976-06-10,50,45-59,São Paulo,2019-05-22
+58,Feminino,1967-08-25,59,45-59,Guarulhos,2019-05-24
+59,Feminino,2009-08-10,17,13-17,São Paulo,2019-05-26
+60,Masculino,1995-04-11,31,30-44,Osasco,2019-05-26
+61,Masculino,2005-09-05,21,18-29,São Paulo,2019-05-28
+62,Feminino,2006-11-11,19,18-29,São Paulo,2019-05-31
+63,Feminino,2015-01-27,11,00-12,São Paulo,2019-06-02
+64,Masculino,1987-10-28,39,30-44,São Paulo,2019-06-04
+65,Feminino,1993-07-11,33,30-44,São Paulo,2019-06-09
+66,Masculino,2003-11-25,22,18-29,São Paulo,2019-06-17
+67,Feminino,1991-06-04,35,30-44,São Bernardo do Campo,2019-06-20
+68,Masculino,1969-04-09,57,45-59,São Paulo,2019-06-21
+69,Feminino,2021-12-06,4,00-12,Guarulhos,2019-06-27
+70,Feminino,2015-06-17,11,00-12,Guarulhos,2019-07-01
+71,Masculino,2012-01-07,14,13-17,São Paulo,2019-07-04
+72,Feminino,1989-06-22,37,30-44,Santo André,2019-07-06
+73,Masculino,1982-08-16,44,30-44,São Paulo,2019-07-08
+74,Feminino,1997-12-20,28,18-29,São Paulo,2019-07-09
+75,Feminino,1979-09-21,47,45-59,Guarulhos,2019-07-21
+76,Feminino,1998-01-29,28,18-29,Guarulhos,2019-07-24
+77,Feminino,2005-03-15,21,18-29,Osasco,2019-07-28
+78,Feminino,2003-05-15,23,18-29,São Paulo,2019-08-02
+79,Feminino,1980-02-24,46,45-59,São Bernardo do Campo,2019-08-02
+80,Masculino,2025-06-29,1,00-12,Santo André,2019-08-04
+81,Masculino,1987-09-12,39,30-44,São Paulo,2019-08-04
+82,Masculino,1993-04-10,33,30-44,São Paulo,2019-08-04
+83,Feminino,1972-08-20,54,45-59,Guarulhos,2019-08-05
+84,Feminino,2005-08-26,21,18-29,Guarulhos,2019-08-12
+85,Feminino,1981-10-24,45,45-59,São Paulo,2019-08-19
+86,Feminino,2021-03-16,5,00-12,Osasco,2019-08-20
+87,Feminino,2002-12-03,23,18-29,São Paulo,2019-08-23
+88,Masculino,2026-01-28,0,00-12,São Paulo,2019-08-28
+89,Feminino,1951-11-19,74,60+,Osasco,2019-08-29
+90,Feminino,1987-03-13,39,30-44,Osasco,2019-09-01
+91,Feminino,1985-09-23,41,30-44,São Paulo,2019-09-01
+92,Feminino,1996-07-04,30,30-44,São Paulo,2019-09-10
+93,Masculino,1975-06-08,51,45-59,Osasco,2019-09-19
+94,Masculino,1970-07-18,56,45-59,São Paulo,2019-09-23
+95,Masculino,1983-04-01,43,30-44,São Paulo,2019-09-24
+96,Feminino,1992-07-10,34,30-44,São Paulo,2019-09-24
+97,Feminino,1987-02-09,39,30-44,São Paulo,2019-09-27
+98,Masculino,2013-05-24,13,13-17,São Paulo,2019-10-08
+99,Masculino,1984-12-22,41,30-44,São Paulo,2019-10-08
+100,Masculino,2009-10-31,16,13-17,Taboão da Serra,2019-10-10
+101,Feminino,1968-04-19,58,45-59,Santo André,2019-10-15
+102,Masculino,2020-12-21,5,00-12,Guarulhos,2019-10-16
+103,Masculino,1985-12-12,40,30-44,São Paulo,2019-10-17
+104,Feminino,1975-06-01,51,45-59,Barueri,2019-10-17
+105,Feminino,1979-07-16,47,45-59,São Paulo,2019-10-21
+106,Feminino,2001-04-03,25,18-29,Santo André,2019-11-08
+107,Feminino,1999-01-03,27,18-29,São Paulo,2019-11-08
+108,Feminino,1995-08-04,31,30-44,Osasco,2019-11-12
+109,Feminino,1979-07-22,47,45-59,Barueri,2019-11-12
+110,Feminino,2009-10-31,16,13-17,São Paulo,2019-11-13
+111,Masculino,1971-10-02,55,45-59,São Paulo,2019-11-13
+112,Feminino,1991-01-03,35,30-44,São Paulo,2019-11-16
+113,Masculino,2013-03-29,13,13-17,São Paulo,2019-11-16
+114,Feminino,1988-02-27,38,30-44,São Bernardo do Campo,2019-11-17
+115,Feminino,2019-11-22,6,00-12,São Paulo,2019-11-18
+116,Feminino,1970-04-30,56,45-59,Barueri,2019-11-19
+117,Masculino,1989-09-19,37,30-44,São Paulo,2019-11-21
+118,Feminino,1986-03-24,40,30-44,Guarulhos,2019-11-26
+119,Feminino,1992-09-14,34,30-44,São Paulo,2019-12-02
+120,Feminino,1976-10-25,50,45-59,Guarulhos,2019-12-03
+121,Masculino,1984-02-18,42,30-44,São Paulo,2019-12-04
+122,Masculino,1974-09-04,52,45-59,Taboão da Serra,2019-12-04
+123,Masculino,1976-08-19,50,45-59,São Paulo,2019-12-06
+124,Masculino,1971-04-26,55,45-59,Barueri,2019-12-06
+125,Masculino,1959-04-04,67,60+,São Paulo,2019-12-07
+126,Masculino,2002-11-09,23,18-29,São Paulo,2019-12-12
+127,Feminino,1989-04-08,37,30-44,Santo André,2019-12-12
+128,Feminino,1965-05-18,61,60+,São Paulo,2019-12-16
+129,Masculino,1970-02-28,56,45-59,Taboão da Serra,2019-12-17
+130,Masculino,1989-08-06,37,30-44,São Paulo,2019-12-20
+131,Masculino,1977-02-02,49,45-59,São Paulo,2019-12-20
+132,Masculino,1988-10-22,38,30-44,Barueri,2019-12-24
+133,Feminino,1981-05-11,45,45-59,Guarulhos,2020-01-07
+134,Feminino,1973-07-29,53,45-59,São Paulo,2020-01-07
+135,Masculino,2018-04-14,8,00-12,São Paulo,2020-01-11
+136,Feminino,2019-08-24,7,00-12,São Paulo,2020-01-14
+137,Feminino,1987-10-15,39,30-44,São Paulo,2020-01-14
+138,Masculino,1992-04-05,34,30-44,São Bernardo do Campo,2020-01-15
+139,Feminino,1986-09-21,40,30-44,São Paulo,2020-01-16
+140,Feminino,1991-09-25,35,30-44,Santo André,2020-01-16
+141,Feminino,1972-01-15,54,45-59,Osasco,2020-01-16
+142,Feminino,1966-04-05,60,60+,São Paulo,2020-01-19
+143,Feminino,2021-10-31,4,00-12,São Paulo,2020-01-23
+144,Feminino,1970-12-26,55,45-59,Guarulhos,2020-02-02
+145,Masculino,2014-03-13,12,00-12,São Paulo,2020-02-08
+146,Masculino,1980-08-24,46,45-59,São Paulo,2020-02-11
+147,Masculino,1968-02-07,58,45-59,Barueri,2020-02-12
+148,Feminino,2001-10-26,25,18-29,São Paulo,2020-02-13
+149,Feminino,2001-09-12,25,18-29,Guarulhos,2020-02-14
+150,Feminino,1958-07-12,68,60+,Osasco,2020-02-15
+151,Masculino,2004-02-16,22,18-29,Osasco,2020-02-20
+152,Masculino,1996-01-30,30,30-44,Taboão da Serra,2020-02-26
+153,Masculino,1994-04-16,32,30-44,São Paulo,2020-02-27
+154,Feminino,1982-06-10,44,30-44,Guarulhos,2020-02-28
+155,Feminino,1970-02-25,56,45-59,Taboão da Serra,2020-03-03
+156,Feminino,2015-11-02,10,00-12,São Bernardo do Campo,2020-03-04
+157,Feminino,2017-10-24,9,00-12,São Paulo,2020-03-15
+158,Feminino,1981-04-25,45,45-59,Osasco,2020-03-18
+159,Masculino,2022-02-20,4,00-12,São Paulo,2020-03-20
+160,Feminino,1985-10-17,41,30-44,São Paulo,2020-03-20
+161,Feminino,1985-03-04,41,30-44,São Paulo,2020-03-23
+162,Feminino,1973-12-13,52,45-59,São Paulo,2020-03-29
+163,Feminino,2025-07-06,1,00-12,São Paulo,2020-04-05
+164,Masculino,1964-12-11,61,60+,Barueri,2020-04-05
+165,Feminino,1976-02-06,50,45-59,Osasco,2020-04-10
+166,Feminino,1980-06-15,46,45-59,Santo André,2020-04-13
+167,Masculino,1983-09-21,43,30-44,Guarulhos,2020-04-13
+168,Feminino,2024-11-13,1,00-12,São Paulo,2020-04-16
+169,Feminino,2019-01-31,7,00-12,São Paulo,2020-04-16
+170,Feminino,1995-03-09,31,30-44,São Paulo,2020-04-18
+171,Feminino,1959-07-08,67,60+,Osasco,2020-04-19
+172,Masculino,1991-08-23,35,30-44,São Paulo,2020-04-20
+173,Feminino,1978-12-19,47,45-59,São Paulo,2020-04-23
+174,Feminino,2017-01-03,9,00-12,Guarulhos,2020-04-27
+175,Masculino,1997-08-01,29,18-29,São Paulo,2020-04-29
+176,Masculino,1974-07-03,52,45-59,São Paulo,2020-05-01
+177,Feminino,1983-03-25,43,30-44,Osasco,2020-05-03
+178,Feminino,1953-12-19,72,60+,Guarulhos,2020-05-09
+179,Masculino,2001-11-30,24,18-29,São Paulo,2020-05-10
+180,Feminino,1985-02-20,41,30-44,São Paulo,2020-05-12
+181,Masculino,1986-09-30,40,30-44,São Paulo,2020-05-13
+182,Feminino,1993-03-25,33,30-44,Guarulhos,2020-05-14
+183,Feminino,1985-01-12,41,30-44,Santo André,2020-05-18
+184,Masculino,2020-09-08,6,00-12,São Bernardo do Campo,2020-05-18
+185,Masculino,1977-05-29,49,45-59,São Paulo,2020-05-20
+186,Feminino,1991-05-11,35,30-44,São Bernardo do Campo,2020-05-23
+187,Feminino,1984-05-11,42,30-44,São Paulo,2020-05-26
+188,Masculino,1958-07-12,68,60+,Taboão da Serra,2020-05-28
+189,Feminino,2009-10-31,16,13-17,São Paulo,2020-05-30
+190,Masculino,1982-06-30,44,30-44,São Paulo,2020-05-31
+191,Masculino,1965-11-03,60,60+,São Bernardo do Campo,2020-06-01
+192,Feminino,1972-02-10,54,45-59,Barueri,2020-06-06
+193,Masculino,2003-01-09,23,18-29,Barueri,2020-06-09
+194,Feminino,1981-02-01,45,45-59,São Paulo,2020-06-13
+195,Feminino,1987-06-12,39,30-44,Guarulhos,2020-06-17
+196,Feminino,2002-08-10,24,18-29,São Paulo,2020-06-21
+197,Masculino,1951-11-07,74,60+,São Paulo,2020-06-22
+198,Feminino,2013-06-08,13,13-17,São Paulo,2020-06-24
+199,Masculino,2009-10-31,16,13-17,São Paulo,2020-06-26
+200,Feminino,2000-06-11,26,18-29,São Paulo,2020-06-28
+201,Masculino,1972-03-08,54,45-59,Osasco,2020-06-30
+202,Masculino,2005-02-24,21,18-29,São Paulo,2020-07-02
+203,Masculino,1973-08-31,53,45-59,Taboão da Serra,2020-07-03
+204,Feminino,1996-04-16,30,30-44,São Paulo,2020-07-03
+205,Feminino,1962-09-05,64,60+,São Paulo,2020-07-03
+206,Feminino,1983-09-28,43,30-44,São Paulo,2020-07-05
+207,Feminino,1991-09-10,35,30-44,São Paulo,2020-07-08
+208,Feminino,1974-01-18,52,45-59,Guarulhos,2020-07-10
+209,Feminino,1994-02-28,32,30-44,São Paulo,2020-07-20
+210,Masculino,1972-07-02,54,45-59,São Paulo,2020-07-21
+211,Feminino,1969-11-23,56,45-59,São Paulo,2020-07-22
+212,Feminino,1964-07-17,62,60+,São Paulo,2020-07-23
+213,Masculino,1961-03-13,65,60+,Guarulhos,2020-07-27
+214,Feminino,1986-05-20,40,30-44,Santo André,2020-07-30
+215,Masculino,1989-05-06,37,30-44,São Paulo,2020-07-31
+216,Feminino,1976-03-18,50,45-59,São Bernardo do Campo,2020-08-01
+217,Masculino,2004-12-29,21,18-29,Osasco,2020-08-04
+218,Masculino,1987-08-13,39,30-44,São Paulo,2020-08-06
+219,Masculino,1986-03-06,40,30-44,Guarulhos,2020-08-08
+220,Masculino,1950-06-14,76,60+,Osasco,2020-08-09
+221,Feminino,1982-10-03,44,30-44,São Paulo,2020-08-12
+222,Feminino,2005-12-03,20,18-29,São Paulo,2020-08-15
+223,Masculino,1994-01-23,32,30-44,São Paulo,2020-08-15
+224,Feminino,1962-09-24,64,60+,São Paulo,2020-08-16
+225,Feminino,1968-08-26,58,45-59,São Paulo,2020-08-19
+226,Feminino,1994-11-07,31,30-44,São Paulo,2020-08-28
+227,Feminino,1990-01-14,36,30-44,São Paulo,2020-08-29
+228,Feminino,1990-06-08,36,30-44,Santo André,2020-09-02
+229,Feminino,1976-04-20,50,45-59,São Paulo,2020-09-04
+230,Masculino,2019-09-21,7,00-12,Guarulhos,2020-09-08
+231,Feminino,1977-10-14,49,45-59,São Paulo,2020-09-11
+232,Feminino,2009-10-31,16,13-17,São Bernardo do Campo,2020-09-16
+233,Masculino,1982-12-02,43,30-44,Santo André,2020-09-17
+234,Feminino,1984-01-29,42,30-44,Osasco,2020-09-19
+235,Feminino,1995-03-27,31,30-44,Osasco,2020-09-28
+236,Masculino,2013-02-13,13,13-17,São Paulo,2020-09-28
+237,Feminino,1980-02-12,46,45-59,Guarulhos,2020-10-02
+238,Feminino,2012-11-14,13,13-17,São Bernardo do Campo,2020-10-11
+239,Feminino,1985-08-01,41,30-44,São Paulo,2020-10-12
+240,Feminino,1974-09-15,52,45-59,Taboão da Serra,2020-10-15
+241,Feminino,1972-08-18,54,45-59,São Paulo,2020-10-16
+242,Feminino,1947-02-06,79,60+,Santo André,2020-10-18
+243,Feminino,1967-06-22,59,45-59,São Paulo,2020-10-21
+244,Feminino,1981-07-26,45,45-59,Santo André,2020-10-26
+245,Feminino,2014-09-26,12,00-12,São Paulo,2020-10-27
+246,Feminino,2026-05-20,0,00-12,São Paulo,2020-10-27
+247,Masculino,2005-08-23,21,18-29,Osasco,2020-10-27
+248,Feminino,2020-02-20,6,00-12,São Paulo,2020-11-04
+249,Masculino,1974-05-03,52,45-59,São Paulo,2020-11-06
+250,Masculino,1989-03-11,37,30-44,Santo André,2020-11-07
+251,Masculino,1970-03-29,56,45-59,Taboão da Serra,2020-11-13
+252,Masculino,1984-07-13,42,30-44,São Paulo,2020-11-14
+253,Feminino,2012-03-09,14,13-17,São Bernardo do Campo,2020-11-16
+254,Masculino,1981-06-22,45,45-59,São Paulo,2020-11-21
+255,Masculino,1998-02-04,28,18-29,Guarulhos,2020-11-22
+256,Feminino,2020-08-23,6,00-12,Osasco,2020-11-23
+257,Feminino,1973-10-13,53,45-59,Guarulhos,2020-11-25
+258,Masculino,1965-10-03,61,60+,São Paulo,2020-11-25
+259,Masculino,2017-05-06,9,00-12,São Paulo,2020-11-25
+260,Feminino,1971-08-04,55,45-59,Guarulhos,2020-11-30
+261,Feminino,1977-07-24,49,45-59,Guarulhos,2020-12-11
+262,Masculino,1983-10-31,43,30-44,São Bernardo do Campo,2020-12-12
+263,Feminino,2013-03-15,13,13-17,São Paulo,2020-12-15
+264,Feminino,1990-05-29,36,30-44,São Paulo,2020-12-17
+265,Feminino,1954-02-19,72,60+,São Paulo,2020-12-23
+266,Feminino,1947-10-21,79,60+,São Paulo,2020-12-26
+267,Masculino,1985-01-12,41,30-44,São Paulo,2020-12-28
+268,Masculino,1972-11-26,53,45-59,Osasco,2021-01-04
+269,Masculino,1965-12-08,60,60+,Taboão da Serra,2021-01-08
+270,Feminino,1975-07-16,51,45-59,São Paulo,2021-01-14
+271,Masculino,2012-03-26,14,13-17,São Paulo,2021-01-14
+272,Masculino,2013-10-08,13,13-17,Santo André,2021-01-14
+273,Feminino,1996-01-13,30,30-44,São Paulo,2021-01-15
+274,Feminino,1988-05-15,38,30-44,São Paulo,2021-01-17
+275,Feminino,2004-08-25,22,18-29,São Paulo,2021-01-18
+276,Feminino,1980-07-11,46,45-59,São Paulo,2021-01-19
+277,Feminino,1982-12-06,43,30-44,São Paulo,2021-01-26
+278,Feminino,1973-12-23,52,45-59,São Bernardo do Campo,2021-01-26
+279,Masculino,2009-10-31,16,13-17,São Paulo,2021-01-27
+280,Feminino,1950-05-08,76,60+,Guarulhos,2021-02-03
+281,Masculino,2000-08-05,26,18-29,Guarulhos,2021-02-06
+282,Feminino,1988-09-26,38,30-44,Taboão da Serra,2021-02-12
+283,Feminino,2024-04-08,2,00-12,Guarulhos,2021-02-13
+284,Masculino,1974-04-14,52,45-59,São Bernardo do Campo,2021-02-14
+285,Feminino,1995-01-27,31,30-44,São Paulo,2021-02-15
+286,Feminino,1949-08-05,77,60+,Santo André,2021-02-19
+287,Feminino,1985-03-29,41,30-44,São Paulo,2021-02-19
+288,Feminino,1973-12-27,52,45-59,Osasco,2021-02-21
+289,Masculino,2012-11-26,13,13-17,Osasco,2021-02-22
+290,Feminino,2016-10-20,10,00-12,São Paulo,2021-02-23
+291,Masculino,2001-04-16,25,18-29,São Paulo,2021-02-27
+292,Feminino,1982-02-11,44,30-44,Osasco,2021-02-27
+293,Masculino,1983-04-02,43,30-44,São Paulo,2021-03-04
+294,Feminino,2003-01-16,23,18-29,São Paulo,2021-03-08
+295,Masculino,2014-10-06,12,00-12,São Bernardo do Campo,2021-03-10
+296,Masculino,1987-08-21,39,30-44,Santo André,2021-03-12
+297,Masculino,2018-10-23,8,00-12,São Paulo,2021-03-12
+298,Feminino,1974-03-17,52,45-59,São Paulo,2021-03-14
+299,Feminino,1967-04-05,59,45-59,São Bernardo do Campo,2021-03-15
+300,Masculino,1993-10-28,33,30-44,São Paulo,2021-03-20
+301,Feminino,2004-09-14,22,18-29,São Paulo,2021-03-21
+302,Feminino,1993-03-15,33,30-44,Santo André,2021-03-22
+303,Masculino,2011-12-19,14,13-17,São Paulo,2021-03-25
+304,Masculino,1979-12-18,46,45-59,Taboão da Serra,2021-03-28
+305,Masculino,1968-04-19,58,45-59,Guarulhos,2021-03-29
+306,Masculino,1992-10-08,34,30-44,São Bernardo do Campo,2021-03-29
+307,Feminino,1992-12-05,33,30-44,Osasco,2021-03-30
+308,Feminino,1998-06-15,28,18-29,São Paulo,2021-03-31
+309,Masculino,1980-07-09,46,45-59,Santo André,2021-04-02
+310,Masculino,1994-05-05,32,30-44,Taboão da Serra,2021-04-05
+311,Feminino,1993-12-31,32,30-44,Barueri,2021-04-13
+312,Masculino,1989-05-11,37,30-44,Taboão da Serra,2021-04-18
+313,Masculino,1962-08-28,64,60+,São Paulo,2021-04-19
+314,Feminino,2000-05-04,26,18-29,São Paulo,2021-04-29
+315,Feminino,1971-04-27,55,45-59,São Paulo,2021-05-04
+316,Feminino,1988-08-08,38,30-44,Santo André,2021-05-08
+317,Feminino,1976-09-09,50,45-59,Taboão da Serra,2021-05-09
+318,Masculino,1987-04-06,39,30-44,Santo André,2021-05-18
+319,Feminino,2001-12-13,24,18-29,Taboão da Serra,2021-05-19
+320,Feminino,2024-07-28,2,00-12,São Paulo,2021-05-20
+321,Masculino,1985-06-20,41,30-44,São Paulo,2021-05-23
+322,Masculino,2009-10-31,16,13-17,São Paulo,2021-05-23
+323,Feminino,1991-07-11,35,30-44,São Bernardo do Campo,2021-05-28
+324,Feminino,1984-05-18,42,30-44,São Paulo,2021-05-29
+325,Masculino,1977-06-06,49,45-59,São Paulo,2021-06-05
+326,Feminino,1998-02-05,28,18-29,Osasco,2021-06-06
+327,Feminino,1981-01-10,45,45-59,São Paulo,2021-06-15
+328,Feminino,1985-04-07,41,30-44,São Paulo,2021-06-17
+329,Masculino,1970-03-11,56,45-59,Taboão da Serra,2021-06-20
+330,Feminino,1971-10-16,55,45-59,São Paulo,2021-06-23
+331,Feminino,2016-07-06,10,00-12,São Paulo,2021-06-25
+332,Feminino,1991-11-20,34,30-44,Barueri,2021-06-28
+333,Feminino,1979-08-21,47,45-59,São Paulo,2021-07-02
+334,Feminino,2017-10-16,9,00-12,São Paulo,2021-07-04
+335,Masculino,1980-11-15,45,45-59,São Paulo,2021-07-05
+336,Feminino,2018-12-22,7,00-12,Taboão da Serra,2021-07-07
+337,Feminino,2014-12-25,11,00-12,Santo André,2021-07-12
+338,Feminino,1969-04-04,57,45-59,Barueri,2021-07-14
+339,Masculino,1991-10-13,35,30-44,Guarulhos,2021-07-15
+340,Masculino,1961-09-06,65,60+,São Paulo,2021-07-18
+341,Feminino,2003-09-05,23,18-29,Guarulhos,2021-07-19
+342,Masculino,1971-02-13,55,45-59,São Paulo,2021-07-20
+343,Feminino,1996-07-28,30,30-44,São Paulo,2021-07-23
+344,Feminino,1962-06-28,64,60+,São Paulo,2021-07-24
+345,Masculino,1964-12-05,61,60+,Santo André,2021-07-26
+346,Masculino,1986-03-25,40,30-44,Taboão da Serra,2021-07-27
+347,Feminino,1966-03-10,60,60+,Taboão da Serra,2021-07-29
+348,Feminino,1986-07-07,40,30-44,Santo André,2021-07-30
+349,Feminino,1994-03-17,32,30-44,São Paulo,2021-08-01
+350,Masculino,1988-07-02,38,30-44,São Paulo,2021-08-04
+351,Feminino,2024-11-04,1,00-12,São Paulo,2021-08-10
+352,Feminino,1993-12-01,32,30-44,São Paulo,2021-08-17
+353,Feminino,1973-06-10,53,45-59,São Paulo,2021-08-17
+354,Masculino,2009-10-31,16,13-17,Guarulhos,2021-08-20
+355,Masculino,2025-12-07,0,00-12,Osasco,2021-08-24
+356,Feminino,1979-12-13,46,45-59,São Paulo,2021-08-31
+357,Feminino,2014-08-07,12,00-12,Taboão da Serra,2021-08-31
+358,Feminino,1971-05-18,55,45-59,Osasco,2021-08-31
+359,Feminino,1994-11-02,31,30-44,São Paulo,2021-09-01
+360,Feminino,2015-03-09,11,00-12,São Paulo,2021-09-02
+361,Masculino,2009-10-31,16,13-17,São Bernardo do Campo,2021-09-04
+362,Feminino,2002-04-28,24,18-29,Taboão da Serra,2021-09-19
+363,Feminino,1989-07-10,37,30-44,São Paulo,2021-09-20
+364,Masculino,2009-10-31,16,13-17,Guarulhos,2021-09-24
+365,Masculino,1967-12-18,58,45-59,Taboão da Serra,2021-09-25
+366,Masculino,1981-10-01,45,45-59,Santo André,2021-10-01
+367,Feminino,1994-01-29,32,30-44,Guarulhos,2021-10-02
+368,Masculino,1996-01-20,30,30-44,Santo André,2021-10-03
+369,Feminino,1971-05-18,55,45-59,São Paulo,2021-10-07
+370,Feminino,2019-11-30,6,00-12,São Paulo,2021-10-10
+371,Feminino,1975-10-15,51,45-59,Guarulhos,2021-10-12
+372,Masculino,2009-10-31,16,13-17,Barueri,2021-10-13
+373,Masculino,1973-01-14,53,45-59,Santo André,2021-10-17
+374,Feminino,2024-04-15,2,00-12,São Paulo,2021-10-17
+375,Masculino,1992-06-17,34,30-44,São Paulo,2021-10-19
+376,Feminino,2003-07-10,23,18-29,São Paulo,2021-10-23
+377,Feminino,2012-10-06,14,13-17,Guarulhos,2021-10-24
+378,Masculino,2020-11-04,5,00-12,São Paulo,2021-10-27
+379,Feminino,1988-04-25,38,30-44,São Paulo,2021-10-27
+380,Feminino,1988-06-28,38,30-44,São Paulo,2021-11-02
+381,Masculino,2015-02-26,11,00-12,São Bernardo do Campo,2021-11-03
+382,Feminino,1981-02-27,45,45-59,São Paulo,2021-11-04
+383,Masculino,1969-05-29,57,45-59,São Paulo,2021-11-05
+384,Feminino,1977-12-27,48,45-59,São Bernardo do Campo,2021-11-08
+385,Masculino,2013-02-06,13,13-17,São Bernardo do Campo,2021-11-11
+386,Masculino,1966-05-01,60,60+,São Paulo,2021-11-14
+387,Feminino,1971-02-05,55,45-59,Santo André,2021-11-18
+388,Feminino,1982-11-16,43,30-44,Guarulhos,2021-11-27
+389,Feminino,1978-06-11,48,45-59,Guarulhos,2021-11-29
+390,Feminino,2003-01-18,23,18-29,São Paulo,2021-11-29
+391,Masculino,2025-03-04,1,00-12,São Paulo,2021-11-30
+392,Masculino,1971-03-05,55,45-59,São Paulo,2021-12-02
+393,Feminino,1980-07-23,46,45-59,São Paulo,2021-12-05
+394,Feminino,2023-10-12,3,00-12,Osasco,2021-12-06
+395,Masculino,1981-08-07,45,45-59,São Paulo,2021-12-08
+396,Feminino,2023-05-03,3,00-12,São Paulo,2021-12-19
+397,Feminino,1962-04-10,64,60+,São Paulo,2021-12-20
+398,Masculino,1965-12-18,60,60+,São Paulo,2021-12-28
+399,Masculino,1971-07-07,55,45-59,São Paulo,2021-12-31
+400,Feminino,2018-11-15,7,00-12,Guarulhos,2021-12-31
+401,Feminino,2009-10-31,16,13-17,São Paulo,2022-01-18
+402,Masculino,2009-02-20,17,13-17,São Paulo,2022-01-19
+403,Masculino,1955-05-20,71,60+,Guarulhos,2022-01-20
+404,Feminino,2024-03-02,2,00-12,São Paulo,2022-01-21
+405,Feminino,1996-04-14,30,30-44,São Paulo,2022-01-27
+406,Feminino,1989-06-16,37,30-44,São Paulo,2022-01-29
+407,Masculino,2004-06-25,22,18-29,São Bernardo do Campo,2022-02-02
+408,Feminino,2012-05-30,14,13-17,São Paulo,2022-02-04
+409,Masculino,2025-07-19,1,00-12,São Paulo,2022-02-05
+410,Feminino,1966-06-17,60,60+,Santo André,2022-02-08
+411,Feminino,1974-07-17,52,45-59,Osasco,2022-02-09
+412,Feminino,1986-05-12,40,30-44,Guarulhos,2022-02-13
+413,Masculino,2001-01-16,25,18-29,São Bernardo do Campo,2022-02-14
+414,Masculino,2009-10-31,16,13-17,Santo André,2022-02-18
+415,Feminino,2022-04-23,4,00-12,Taboão da Serra,2022-02-18
+416,Feminino,1985-11-18,40,30-44,Barueri,2022-02-22
+417,Masculino,1978-02-12,48,45-59,São Paulo,2022-02-26
+418,Feminino,2024-05-24,2,00-12,Guarulhos,2022-02-27
+419,Feminino,1984-06-22,42,30-44,Taboão da Serra,2022-03-04
+420,Masculino,1973-05-25,53,45-59,Barueri,2022-03-06
+421,Feminino,1999-10-17,27,18-29,São Paulo,2022-03-12
+422,Masculino,1963-11-23,62,60+,São Paulo,2022-03-13
+423,Masculino,1968-09-29,58,45-59,São Paulo,2022-03-14
+424,Feminino,1995-01-05,31,30-44,São Paulo,2022-03-14
+425,Feminino,1975-03-05,51,45-59,São Paulo,2022-03-15
+426,Feminino,2008-01-08,18,18-29,São Paulo,2022-03-17
+427,Feminino,2002-07-25,24,18-29,Guarulhos,2022-03-18
+428,Feminino,1992-10-10,34,30-44,São Paulo,2022-03-27
+429,Masculino,1993-02-10,33,30-44,São Paulo,2022-04-05
+430,Feminino,1992-07-12,34,30-44,São Paulo,2022-04-09
+431,Feminino,1999-11-16,26,18-29,Osasco,2022-04-09
+432,Feminino,2014-07-19,12,00-12,São Paulo,2022-04-12
+433,Feminino,2001-02-28,25,18-29,Taboão da Serra,2022-04-14
+434,Feminino,1952-03-30,74,60+,São Paulo,2022-04-15
+435,Masculino,1963-09-24,63,60+,Barueri,2022-04-15
+436,Feminino,2012-10-13,14,13-17,São Paulo,2022-04-21
+437,Feminino,2020-04-10,6,00-12,São Paulo,2022-04-22
+438,Feminino,1977-01-27,49,45-59,São Paulo,2022-04-22
+439,Feminino,1998-06-09,28,18-29,São Bernardo do Campo,2022-04-23
+440,Masculino,1991-08-29,35,30-44,São Paulo,2022-04-24
+441,Feminino,2016-01-18,10,00-12,São Bernardo do Campo,2022-05-01
+442,Feminino,1968-10-01,58,45-59,São Paulo,2022-05-04
+443,Masculino,1967-07-09,59,45-59,São Paulo,2022-05-07
+444,Feminino,1965-07-24,61,60+,São Paulo,2022-05-10
+445,Masculino,1985-01-14,41,30-44,São Paulo,2022-05-11
+446,Feminino,1992-09-04,34,30-44,Osasco,2022-05-13
+447,Masculino,1986-01-13,40,30-44,São Paulo,2022-05-13
+448,Feminino,2012-02-21,14,13-17,Guarulhos,2022-05-15
+449,Masculino,2001-12-09,24,18-29,São Paulo,2022-05-24
+450,Feminino,1979-07-02,47,45-59,São Paulo,2022-05-25
+451,Masculino,1978-04-30,48,45-59,São Paulo,2022-05-28
+452,Feminino,1986-10-04,40,30-44,Santo André,2022-05-29
+453,Feminino,2021-01-21,5,00-12,Santo André,2022-05-30
+454,Masculino,2012-12-24,13,13-17,São Paulo,2022-06-02
+455,Masculino,1984-06-27,42,30-44,São Paulo,2022-06-03
+456,Masculino,1963-10-31,63,60+,Guarulhos,2022-06-07
+457,Masculino,1977-11-28,48,45-59,Barueri,2022-06-13
+458,Feminino,1992-01-05,34,30-44,Santo André,2022-06-18
+459,Masculino,1977-02-18,49,45-59,Guarulhos,2022-06-26
+460,Masculino,1989-12-27,36,30-44,São Paulo,2022-07-07
+461,Feminino,1958-08-16,68,60+,Santo André,2022-07-15
+462,Feminino,1972-07-21,54,45-59,São Paulo,2022-07-20
+463,Masculino,1992-02-18,34,30-44,São Paulo,2022-07-26
+464,Feminino,2025-08-22,1,00-12,Taboão da Serra,2022-07-28
+465,Masculino,2004-07-20,22,18-29,São Paulo,2022-07-29
+466,Feminino,1991-07-17,35,30-44,São Paulo,2022-07-30
+467,Feminino,1948-10-23,78,60+,São Bernardo do Campo,2022-08-05
+468,Feminino,2014-07-20,12,00-12,São Paulo,2022-08-08
+469,Feminino,2021-01-21,5,00-12,Santo André,2022-08-17
+470,Feminino,1989-03-21,37,30-44,São Paulo,2022-08-24
+471,Feminino,1989-01-18,37,30-44,São Paulo,2022-08-27
+472,Feminino,2009-10-31,16,13-17,São Bernardo do Campo,2022-08-27
+473,Feminino,2012-06-16,14,13-17,São Paulo,2022-08-29
+474,Feminino,1986-08-03,40,30-44,Taboão da Serra,2022-09-01
+475,Masculino,1991-08-27,35,30-44,São Paulo,2022-09-03
+476,Feminino,1969-08-05,57,45-59,São Paulo,2022-09-09
+477,Masculino,2009-10-31,16,13-17,Taboão da Serra,2022-09-09
+478,Feminino,1986-08-22,40,30-44,São Paulo,2022-09-18
+479,Feminino,1988-05-09,38,30-44,São Bernardo do Campo,2022-09-21
+480,Feminino,1994-09-19,32,30-44,São Paulo,2022-10-05
+481,Feminino,1983-02-10,43,30-44,Guarulhos,2022-10-07
+482,Feminino,1979-01-27,47,45-59,Taboão da Serra,2022-10-07
+483,Feminino,1991-11-18,34,30-44,Guarulhos,2022-10-08
+484,Masculino,1984-09-05,42,30-44,Osasco,2022-10-09
+485,Masculino,1977-05-30,49,45-59,São Paulo,2022-10-13
+486,Feminino,1980-05-06,46,45-59,São Paulo,2022-10-17
+487,Feminino,2017-04-23,9,00-12,São Paulo,2022-10-18
+488,Feminino,1976-08-07,50,45-59,Santo André,2022-10-19
+489,Masculino,2006-09-30,20,18-29,Guarulhos,2022-10-19
+490,Feminino,1947-09-08,79,60+,Guarulhos,2022-10-21
+491,Feminino,2004-12-20,21,18-29,São Paulo,2022-10-21
+492,Masculino,2018-06-07,8,00-12,Osasco,2022-10-30
+493,Masculino,1957-05-31,69,60+,Santo André,2022-11-01
+494,Feminino,1971-04-15,55,45-59,Osasco,2022-11-04
+495,Masculino,1967-07-04,59,45-59,Barueri,2022-11-07
+496,Feminino,2012-08-27,14,13-17,São Paulo,2022-11-08
+497,Feminino,1981-09-08,45,45-59,São Paulo,2022-11-09
+498,Feminino,2013-01-19,13,13-17,Osasco,2022-11-10
+499,Masculino,2015-01-10,11,00-12,São Paulo,2022-11-10
+500,Masculino,1979-05-11,47,45-59,São Paulo,2022-11-12
+501,Masculino,2019-05-08,7,00-12,São Paulo,2022-11-15
+502,Feminino,1993-06-23,33,30-44,Barueri,2022-11-16
+503,Feminino,1969-05-20,57,45-59,São Paulo,2022-11-16
+504,Masculino,2003-06-26,23,18-29,Guarulhos,2022-11-17
+505,Feminino,1961-04-01,65,60+,São Paulo,2022-11-20
+506,Feminino,1983-08-07,43,30-44,São Paulo,2022-11-20
+507,Feminino,1970-07-20,56,45-59,São Paulo,2022-11-23
+508,Feminino,2018-01-10,8,00-12,São Paulo,2022-11-24
+509,Masculino,1987-07-01,39,30-44,São Paulo,2022-11-25
+510,Feminino,1985-10-05,41,30-44,Guarulhos,2022-11-27
+511,Feminino,1996-02-24,30,30-44,São Paulo,2022-11-28
+512,Feminino,1961-06-18,65,60+,São Paulo,2022-12-08
+513,Masculino,1977-10-03,49,45-59,Osasco,2022-12-09
+514,Feminino,1947-12-10,78,60+,São Paulo,2022-12-10
+515,Feminino,1989-12-15,36,30-44,São Bernardo do Campo,2022-12-13
+516,Feminino,1991-11-08,34,30-44,São Paulo,2022-12-18
+517,Feminino,2006-12-21,19,18-29,Osasco,2022-12-23
+518,Feminino,1990-11-25,35,30-44,São Paulo,2022-12-23
+519,Masculino,1973-05-06,53,45-59,São Paulo,2022-12-28
+520,Masculino,2007-04-08,19,18-29,São Bernardo do Campo,2022-12-28
+521,Masculino,1977-04-19,49,45-59,São Paulo,2023-01-04
+522,Feminino,2000-02-10,26,18-29,Guarulhos,2023-01-07
+523,Masculino,1970-09-14,56,45-59,Santo André,2023-01-09
+524,Feminino,1982-07-02,44,30-44,São Paulo,2023-01-10
+525,Feminino,1982-07-15,44,30-44,São Paulo,2023-01-17
+526,Masculino,1998-06-13,28,18-29,Guarulhos,2023-01-18
+527,Feminino,1960-01-11,66,60+,São Paulo,2023-01-19
+528,Masculino,1988-03-09,38,30-44,Guarulhos,2023-01-22
+529,Masculino,2012-07-29,14,13-17,Guarulhos,2023-01-22
+530,Feminino,1983-09-29,43,30-44,São Paulo,2023-01-24
+531,Feminino,2022-01-19,4,00-12,Barueri,2023-01-28
+532,Feminino,1963-09-17,63,60+,Guarulhos,2023-01-28
+533,Masculino,1988-12-03,37,30-44,Osasco,2023-01-31
+534,Feminino,1957-07-16,69,60+,Osasco,2023-02-10
+535,Feminino,1985-02-27,41,30-44,São Paulo,2023-02-11
+536,Masculino,1965-09-21,61,60+,São Paulo,2023-02-13
+537,Feminino,2014-10-26,12,00-12,São Paulo,2023-02-14
+538,Masculino,2021-06-17,5,00-12,Santo André,2023-02-20
+539,Masculino,1988-10-12,38,30-44,São Paulo,2023-02-20
+540,Feminino,1981-08-20,45,45-59,São Paulo,2023-02-22
+541,Masculino,2017-09-26,9,00-12,Taboão da Serra,2023-02-23
+542,Feminino,2014-01-04,12,00-12,São Paulo,2023-02-27
+543,Feminino,2023-07-25,3,00-12,Guarulhos,2023-03-03
+544,Masculino,1976-03-08,50,45-59,Santo André,2023-03-04
+545,Feminino,1984-08-08,42,30-44,Taboão da Serra,2023-03-04
+546,Masculino,1992-06-02,34,30-44,São Paulo,2023-03-09
+547,Feminino,1998-11-17,27,18-29,Santo André,2023-03-11
+548,Feminino,1973-04-06,53,45-59,São Paulo,2023-03-11
+549,Masculino,1956-05-09,70,60+,São Paulo,2023-03-11
+550,Feminino,2020-04-30,6,00-12,Guarulhos,2023-03-16
+551,Feminino,1978-06-29,48,45-59,Osasco,2023-03-23
+552,Masculino,2001-02-17,25,18-29,São Paulo,2023-03-28
+553,Feminino,1981-11-02,44,30-44,Osasco,2023-03-30
+554,Feminino,1981-12-19,44,30-44,Osasco,2023-04-01
+555,Feminino,2023-07-18,3,00-12,Guarulhos,2023-04-04
+556,Feminino,1985-12-12,40,30-44,São Paulo,2023-04-07
+557,Masculino,1982-05-11,44,30-44,São Paulo,2023-04-08
+558,Feminino,1957-04-18,69,60+,São Paulo,2023-04-09
+559,Feminino,2016-04-16,10,00-12,Taboão da Serra,2023-04-12
+560,Feminino,2018-09-30,8,00-12,São Paulo,2023-04-15
+561,Feminino,1962-09-20,64,60+,São Paulo,2023-04-15
+562,Feminino,1978-07-07,48,45-59,São Paulo,2023-04-16
+563,Masculino,2024-03-30,2,00-12,São Paulo,2023-04-16
+564,Feminino,2019-11-12,6,00-12,Barueri,2023-04-16
+565,Feminino,1975-11-06,50,45-59,São Paulo,2023-04-22
+566,Feminino,1992-09-17,34,30-44,Barueri,2023-04-23
+567,Feminino,2024-06-24,2,00-12,São Bernardo do Campo,2023-04-23
+568,Masculino,2014-01-08,12,00-12,Osasco,2023-04-24
+569,Feminino,2022-04-23,4,00-12,São Bernardo do Campo,2023-04-25
+570,Masculino,1986-02-09,40,30-44,São Bernardo do Campo,2023-04-29
+571,Feminino,1994-12-06,31,30-44,São Paulo,2023-05-03
+572,Masculino,1982-01-30,44,30-44,Osasco,2023-05-04
+573,Feminino,1994-03-28,32,30-44,São Paulo,2023-05-12
+574,Masculino,2018-01-10,8,00-12,São Paulo,2023-05-27
+575,Feminino,1996-09-17,30,30-44,São Paulo,2023-06-01
+576,Feminino,1985-11-11,40,30-44,São Paulo,2023-06-03
+577,Masculino,1997-11-17,28,18-29,Osasco,2023-06-03
+578,Feminino,1977-04-08,49,45-59,Osasco,2023-06-03
+579,Feminino,1980-03-29,46,45-59,São Paulo,2023-06-04
+580,Masculino,1993-11-21,32,30-44,São Paulo,2023-06-04
+581,Feminino,1991-10-26,35,30-44,Taboão da Serra,2023-06-05
+582,Masculino,1970-05-23,56,45-59,São Paulo,2023-06-09
+583,Feminino,2001-07-03,25,18-29,São Paulo,2023-06-13
+584,Feminino,1982-10-03,44,30-44,São Paulo,2023-06-21
+585,Masculino,1981-07-11,45,45-59,São Paulo,2023-06-25
+586,Feminino,1986-10-01,40,30-44,São Paulo,2023-06-29
+587,Feminino,1980-11-03,45,45-59,Barueri,2023-06-30
+588,Masculino,2015-04-11,11,00-12,São Paulo,2023-07-01
+589,Feminino,1988-04-29,38,30-44,Barueri,2023-07-01
+590,Feminino,1993-03-06,33,30-44,São Paulo,2023-07-07
+591,Feminino,1991-09-17,35,30-44,São Bernardo do Campo,2023-07-09
+592,Masculino,1981-08-31,45,45-59,São Paulo,2023-07-09
+593,Feminino,1977-07-25,49,45-59,São Paulo,2023-07-10
+594,Feminino,1987-01-18,39,30-44,Osasco,2023-07-10
+595,Masculino,2009-10-31,16,13-17,São Paulo,2023-07-13
+596,Feminino,1947-11-10,78,60+,São Paulo,2023-07-14
+597,Masculino,2004-09-01,22,18-29,São Paulo,2023-07-15
+598,Feminino,1996-02-16,30,30-44,Barueri,2023-07-31
+599,Feminino,2006-10-25,20,18-29,Taboão da Serra,2023-08-01
+600,Feminino,2020-07-17,6,00-12,Guarulhos,2023-08-02
+601,Feminino,1974-08-16,52,45-59,São Paulo,2023-08-04
+602,Masculino,1971-02-20,55,45-59,Taboão da Serra,2023-08-04
+603,Feminino,1988-06-30,38,30-44,São Paulo,2023-08-07
+604,Masculino,1983-05-07,43,30-44,São Bernardo do Campo,2023-08-08
+605,Feminino,1987-12-27,38,30-44,São Paulo,2023-08-08
+606,Masculino,1990-11-10,35,30-44,Barueri,2023-08-08
+607,Feminino,2009-10-31,16,13-17,Guarulhos,2023-08-10
+608,Feminino,2019-01-24,7,00-12,São Paulo,2023-08-12
+609,Feminino,2006-04-04,20,18-29,São Paulo,2023-08-13
+610,Feminino,1989-11-13,36,30-44,São Paulo,2023-08-15
+611,Feminino,1976-06-28,50,45-59,Osasco,2023-08-15
+612,Masculino,1966-02-22,60,60+,Guarulhos,2023-08-16
+613,Masculino,1993-03-17,33,30-44,Guarulhos,2023-08-18
+614,Feminino,1982-12-13,43,30-44,Barueri,2023-08-20
+615,Masculino,1976-10-25,50,45-59,São Bernardo do Campo,2023-08-22
+616,Feminino,2013-02-16,13,13-17,São Bernardo do Campo,2023-08-23
+617,Masculino,1968-02-13,58,45-59,São Paulo,2023-08-23
+618,Masculino,1975-09-20,51,45-59,São Paulo,2023-08-24
+619,Feminino,1996-01-13,30,30-44,Guarulhos,2023-08-24
+620,Masculino,1984-06-17,42,30-44,Taboão da Serra,2023-08-30
+621,Feminino,2021-11-07,4,00-12,São Paulo,2023-08-31
+622,Masculino,1986-05-16,40,30-44,Santo André,2023-09-01
+623,Masculino,2003-04-25,23,18-29,São Paulo,2023-09-02
+624,Feminino,1982-04-01,44,30-44,Taboão da Serra,2023-09-06
+625,Masculino,1993-04-16,33,30-44,São Paulo,2023-09-06
+626,Masculino,1987-02-11,39,30-44,Osasco,2023-09-08
+627,Feminino,2015-05-04,11,00-12,São Paulo,2023-09-11
+628,Feminino,1943-10-29,83,60+,São Paulo,2023-09-14
+629,Feminino,2014-01-14,12,00-12,São Paulo,2023-09-18
+630,Feminino,1999-02-08,27,18-29,São Paulo,2023-09-21
+631,Masculino,1986-04-24,40,30-44,Santo André,2023-09-24
+632,Masculino,2016-06-12,10,00-12,Guarulhos,2023-09-27
+633,Feminino,1968-01-11,58,45-59,São Paulo,2023-09-30
+634,Feminino,2022-06-30,4,00-12,São Paulo,2023-10-16
+635,Masculino,2005-04-06,21,18-29,Osasco,2023-10-22
+636,Masculino,1979-07-26,47,45-59,São Paulo,2023-10-22
+637,Masculino,1974-03-07,52,45-59,Barueri,2023-10-23
+638,Masculino,1998-04-07,28,18-29,São Paulo,2023-10-27
+639,Feminino,1991-03-08,35,30-44,São Paulo,2023-11-04
+640,Feminino,1985-10-16,41,30-44,Barueri,2023-11-11
+641,Feminino,2024-03-03,2,00-12,São Paulo,2023-11-12
+642,Feminino,2024-10-19,2,00-12,Santo André,2023-11-17
+643,Masculino,1990-06-24,36,30-44,Santo André,2023-11-17
+644,Masculino,1992-03-11,34,30-44,São Paulo,2023-11-20
+645,Feminino,1968-01-24,58,45-59,São Paulo,2023-11-21
+646,Feminino,2016-06-29,10,00-12,Osasco,2023-11-29
+647,Masculino,1966-10-06,60,60+,Guarulhos,2023-12-01
+648,Feminino,2020-01-11,6,00-12,Osasco,2023-12-02
+649,Masculino,1969-09-24,57,45-59,São Paulo,2023-12-03
+650,Masculino,1989-06-04,37,30-44,Osasco,2023-12-03
+651,Feminino,1971-05-02,55,45-59,São Bernardo do Campo,2023-12-06
+652,Feminino,2021-07-25,5,00-12,São Paulo,2023-12-10
+653,Masculino,1956-09-16,70,60+,Osasco,2023-12-13
+654,Feminino,1996-02-17,30,30-44,Taboão da Serra,2023-12-13
+655,Feminino,1953-05-05,73,60+,Taboão da Serra,2023-12-16
+656,Feminino,1974-05-30,52,45-59,São Paulo,2023-12-21
+657,Feminino,2020-05-31,6,00-12,São Bernardo do Campo,2023-12-22
+658,Masculino,1985-12-02,40,30-44,Osasco,2023-12-23
+659,Masculino,1978-10-10,48,45-59,São Paulo,2023-12-26
+660,Feminino,2021-08-30,5,00-12,São Paulo,2023-12-29
+661,Feminino,1990-07-05,36,30-44,São Paulo,2024-01-05
+662,Feminino,2009-10-31,16,13-17,Santo André,2024-01-15
+663,Feminino,1971-05-14,55,45-59,São Paulo,2024-01-18
+664,Feminino,2017-03-30,9,00-12,São Paulo,2024-01-19
+665,Masculino,2021-09-11,5,00-12,Santo André,2024-01-20
+666,Feminino,1988-11-07,37,30-44,São Paulo,2024-01-30
+667,Feminino,1994-02-23,32,30-44,São Paulo,2024-02-03
+668,Masculino,2003-08-30,23,18-29,São Paulo,2024-02-07
+669,Masculino,2016-11-28,9,00-12,São Paulo,2024-02-13
+670,Feminino,1967-08-15,59,45-59,São Paulo,2024-02-14
+671,Feminino,1963-03-15,63,60+,Osasco,2024-02-22
+672,Feminino,1998-04-21,28,18-29,Taboão da Serra,2024-02-23
+673,Masculino,1978-01-09,48,45-59,Guarulhos,2024-02-28
+674,Feminino,2013-10-18,13,13-17,São Bernardo do Campo,2024-03-02
+675,Feminino,1976-03-23,50,45-59,São Paulo,2024-03-08
+676,Masculino,2024-09-26,2,00-12,São Paulo,2024-03-10
+677,Masculino,2022-10-04,4,00-12,Osasco,2024-03-12
+678,Masculino,2001-07-05,25,18-29,Taboão da Serra,2024-03-16
+679,Feminino,1947-11-10,78,60+,Santo André,2024-03-21
+680,Feminino,1954-01-08,72,60+,São Paulo,2024-03-26
+681,Masculino,1958-04-07,68,60+,São Paulo,2024-03-27
+682,Feminino,2016-05-11,10,00-12,São Paulo,2024-03-31
+683,Masculino,1984-01-28,42,30-44,São Bernardo do Campo,2024-04-01
+684,Feminino,1993-05-21,33,30-44,São Paulo,2024-04-02
+685,Masculino,1988-08-08,38,30-44,São Paulo,2024-04-04
+686,Masculino,2019-05-30,7,00-12,Osasco,2024-04-05
+687,Masculino,2002-02-16,24,18-29,São Paulo,2024-04-08
+688,Feminino,1987-10-17,39,30-44,São Paulo,2024-04-13
+689,Masculino,2009-10-31,16,13-17,São Bernardo do Campo,2024-04-14
+690,Feminino,1985-12-02,40,30-44,São Paulo,2024-04-14
+691,Feminino,1965-09-02,61,60+,São Bernardo do Campo,2024-04-14
+692,Masculino,1990-02-14,36,30-44,Guarulhos,2024-04-17
+693,Feminino,1968-08-06,58,45-59,São Paulo,2024-04-22
+694,Masculino,2012-01-19,14,13-17,São Paulo,2024-04-25
+695,Masculino,1977-01-22,49,45-59,São Paulo,2024-04-27
+696,Masculino,1965-01-03,61,60+,Guarulhos,2024-04-30
+697,Masculino,1983-02-16,43,30-44,São Paulo,2024-04-30
+698,Feminino,1988-09-28,38,30-44,São Paulo,2024-05-05
+699,Masculino,1994-09-21,32,30-44,São Paulo,2024-05-08
+700,Feminino,1973-06-26,53,45-59,São Paulo,2024-05-10
+701,Masculino,2009-10-31,16,13-17,São Paulo,2024-05-14
+702,Feminino,2016-03-04,10,00-12,São Bernardo do Campo,2024-05-15
+703,Feminino,2014-08-29,12,00-12,São Paulo,2024-05-16
+704,Masculino,1987-10-06,39,30-44,São Paulo,2024-05-18
+705,Feminino,1985-09-04,41,30-44,São Paulo,2024-05-19
+706,Feminino,1992-02-07,34,30-44,Osasco,2024-05-22
+707,Masculino,2009-10-31,16,13-17,Guarulhos,2024-05-27
+708,Feminino,1987-03-25,39,30-44,Guarulhos,2024-05-31
+709,Masculino,1999-03-23,27,18-29,São Paulo,2024-06-04
+710,Masculino,1965-09-21,61,60+,São Paulo,2024-06-08
+711,Masculino,2001-01-23,25,18-29,São Paulo,2024-06-09
+712,Feminino,2025-09-09,1,00-12,São Paulo,2024-06-19
+713,Feminino,2007-06-09,19,18-29,Taboão da Serra,2024-06-23
+714,Masculino,2000-04-07,26,18-29,Taboão da Serra,2024-06-28
+715,Masculino,2000-06-28,26,18-29,São Paulo,2024-06-29
+716,Masculino,1984-11-30,41,30-44,São Paulo,2024-07-01
+717,Masculino,1993-11-02,32,30-44,São Bernardo do Campo,2024-07-01
+718,Feminino,1977-03-14,49,45-59,São Bernardo do Campo,2024-07-04
+719,Masculino,2025-02-24,1,00-12,Osasco,2024-07-04
+720,Masculino,1993-07-06,33,30-44,Santo André,2024-07-06
+721,Feminino,2012-12-03,13,13-17,Guarulhos,2024-07-11
+722,Masculino,2014-02-07,12,00-12,São Bernardo do Campo,2024-07-14
+723,Masculino,2003-04-14,23,18-29,São Paulo,2024-07-17
+724,Feminino,1995-02-03,31,30-44,Guarulhos,2024-07-17
+725,Feminino,2015-05-08,11,00-12,São Bernardo do Campo,2024-07-18
+726,Masculino,2009-10-31,16,13-17,São Paulo,2024-07-18
+727,Masculino,2004-09-27,22,18-29,São Paulo,2024-07-18
+728,Masculino,1974-07-13,52,45-59,Guarulhos,2024-07-19
+729,Feminino,1973-12-02,52,45-59,São Paulo,2024-07-21
+730,Feminino,2016-05-04,10,00-12,São Bernardo do Campo,2024-07-21
+731,Feminino,2017-04-27,9,00-12,São Paulo,2024-07-22
+732,Feminino,1963-09-25,63,60+,São Paulo,2024-07-22
+733,Feminino,1977-04-28,49,45-59,Guarulhos,2024-07-24
+734,Masculino,1952-11-24,73,60+,Guarulhos,2024-07-26
+735,Masculino,1965-11-09,60,60+,São Paulo,2024-07-27
+736,Feminino,2025-08-08,1,00-12,São Bernardo do Campo,2024-07-28
+737,Feminino,1993-09-24,33,30-44,São Paulo,2024-07-31
+738,Feminino,1988-10-19,38,30-44,Guarulhos,2024-08-02
+739,Feminino,1983-05-29,43,30-44,São Paulo,2024-08-03
+740,Masculino,2019-08-25,7,00-12,Osasco,2024-08-03
+741,Feminino,2014-05-23,12,00-12,São Paulo,2024-08-05
+742,Masculino,1990-01-28,36,30-44,Barueri,2024-08-15
+743,Feminino,2023-01-17,3,00-12,Taboão da Serra,2024-08-17
+744,Masculino,1964-07-28,62,60+,São Paulo,2024-08-18
+745,Masculino,1987-07-07,39,30-44,São Paulo,2024-08-18
+746,Masculino,2026-03-14,0,00-12,São Bernardo do Campo,2024-08-18
+747,Feminino,1984-01-11,42,30-44,São Paulo,2024-08-23
+748,Feminino,2023-06-14,3,00-12,Guarulhos,2024-08-25
+749,Feminino,2025-10-02,1,00-12,São Paulo,2024-08-25
+750,Feminino,2020-09-16,6,00-12,São Paulo,2024-08-28
+751,Masculino,1976-06-23,50,45-59,São Paulo,2024-09-03
+752,Masculino,1997-08-11,29,18-29,São Bernardo do Campo,2024-09-06
+753,Feminino,1996-11-25,29,18-29,Taboão da Serra,2024-09-09
+754,Feminino,1982-02-16,44,30-44,São Paulo,2024-09-15
+755,Feminino,2026-08-12,0,00-12,São Paulo,2024-09-21
+756,Feminino,1999-12-28,26,18-29,São Paulo,2024-09-24
+757,Feminino,1991-07-14,35,30-44,Taboão da Serra,2024-09-28
+758,Feminino,1980-12-06,45,45-59,Guarulhos,2024-10-04
+759,Masculino,1975-01-16,51,45-59,São Paulo,2024-10-05
+760,Masculino,1979-07-28,47,45-59,Guarulhos,2024-10-06
+761,Feminino,1969-04-28,57,45-59,Osasco,2024-10-20
+762,Feminino,1975-07-19,51,45-59,São Paulo,2024-10-26
+763,Feminino,2014-02-28,12,00-12,São Bernardo do Campo,2024-10-27
+764,Feminino,1995-02-16,31,30-44,Guarulhos,2024-10-30
+765,Feminino,1999-06-02,27,18-29,Osasco,2024-10-30
+766,Feminino,1984-10-07,42,30-44,São Paulo,2024-11-01
+767,Masculino,2009-10-31,16,13-17,São Paulo,2024-11-03
+768,Feminino,1996-09-22,30,30-44,São Paulo,2024-11-09
+769,Masculino,1982-12-29,43,30-44,São Paulo,2024-11-25
+770,Masculino,1996-05-20,30,30-44,São Paulo,2024-11-28
+771,Masculino,1980-09-28,46,45-59,São Paulo,2024-11-30
+772,Feminino,1955-12-14,70,60+,Guarulhos,2024-12-01
+773,Masculino,1995-08-21,31,30-44,Guarulhos,2024-12-03
+774,Feminino,1986-10-14,40,30-44,São Paulo,2024-12-06
+775,Masculino,1959-01-26,67,60+,São Paulo,2024-12-08
+776,Feminino,1987-03-03,39,30-44,São Paulo,2024-12-10
+777,Feminino,1994-12-01,31,30-44,São Paulo,2024-12-13
+778,Masculino,2001-08-13,25,18-29,Santo André,2024-12-14
+779,Feminino,2005-05-31,21,18-29,São Paulo,2024-12-14
+780,Masculino,1982-07-15,44,30-44,São Paulo,2024-12-15
+781,Masculino,1981-03-17,45,45-59,São Paulo,2024-12-16
+782,Masculino,1973-07-18,53,45-59,São Paulo,2024-12-19
+783,Feminino,1968-03-23,58,45-59,São Paulo,2024-12-23
+784,Feminino,1984-07-21,42,30-44,Guarulhos,2024-12-26
+785,Masculino,2014-12-08,11,00-12,São Paulo,2024-12-30
+786,Masculino,1975-03-19,51,45-59,São Paulo,2024-12-30
+787,Masculino,1981-11-09,44,30-44,Osasco,2025-01-01
+788,Masculino,1998-04-08,28,18-29,São Bernardo do Campo,2025-01-01
+789,Feminino,1960-01-11,66,60+,Osasco,2025-01-01
+790,Masculino,1979-11-27,46,45-59,Barueri,2025-01-01
+791,Masculino,2009-02-12,17,13-17,São Paulo,2025-01-01
+792,Feminino,1986-03-16,40,30-44,Taboão da Serra,2025-01-01
+793,Feminino,1963-08-07,63,60+,São Paulo,2025-01-01
+794,Masculino,1973-06-12,53,45-59,São Paulo,2025-01-01
+795,Feminino,1987-01-03,39,30-44,São Paulo,2025-01-01
+796,Masculino,1981-05-21,45,45-59,Guarulhos,2025-01-01
+797,Masculino,1989-03-29,37,30-44,São Paulo,2025-01-01
+798,Feminino,1997-12-05,28,18-29,Osasco,2025-01-01
+799,Feminino,1980-06-25,46,45-59,Taboão da Serra,2025-01-01
+800,Feminino,1988-12-07,37,30-44,São Paulo,2025-01-01
+801,Feminino,1989-10-09,37,30-44,São Paulo,2025-01-01
+802,Feminino,1977-08-07,49,45-59,São Paulo,2025-01-01
+803,Feminino,1999-04-13,27,18-29,São Paulo,2025-01-01
+804,Masculino,1981-10-11,45,45-59,Guarulhos,2025-01-01
+805,Masculino,1986-05-07,40,30-44,São Paulo,2025-01-01
+806,Masculino,2004-07-29,22,18-29,Taboão da Serra,2025-01-01
+807,Masculino,1980-03-25,46,45-59,São Paulo,2025-01-01
+808,Masculino,1987-01-27,39,30-44,Osasco,2025-01-01
+809,Feminino,1979-07-06,47,45-59,São Paulo,2025-01-01
+810,Feminino,1973-06-29,53,45-59,Guarulhos,2025-01-01
+811,Masculino,1968-11-09,57,45-59,Guarulhos,2025-01-02
+812,Feminino,2018-08-06,8,00-12,São Paulo,2025-01-03
+813,Masculino,2017-07-10,9,00-12,São Paulo,2025-01-03
+814,Feminino,2014-04-25,12,00-12,Guarulhos,2025-01-03
+815,Masculino,2005-10-24,21,18-29,Santo André,2025-01-04
+816,Feminino,1984-04-05,42,30-44,São Paulo,2025-01-04
+817,Masculino,1996-11-23,29,18-29,Taboão da Serra,2025-01-06
+818,Feminino,1994-07-12,32,30-44,Guarulhos,2025-01-07
+819,Feminino,1982-04-18,44,30-44,São Paulo,2025-01-08
+820,Feminino,2020-05-07,6,00-12,Guarulhos,2025-01-08
+821,Masculino,1976-10-30,50,45-59,São Paulo,2025-01-09
+822,Masculino,1988-03-12,38,30-44,São Paulo,2025-01-09
+823,Feminino,1990-03-17,36,30-44,São Paulo,2025-01-12
+824,Feminino,1980-10-29,46,45-59,Barueri,2025-01-13
+825,Feminino,1999-03-18,27,18-29,São Paulo,2025-01-16
+826,Masculino,1995-03-15,31,30-44,São Paulo,2025-01-16
+827,Masculino,2007-07-31,19,18-29,São Paulo,2025-01-17
+828,Masculino,2009-10-31,16,13-17,Osasco,2025-01-17
+829,Feminino,1995-03-06,31,30-44,São Paulo,2025-01-18
+830,Feminino,2014-09-01,12,00-12,São Paulo,2025-01-18
+831,Masculino,1991-08-02,35,30-44,Osasco,2025-01-18
+832,Masculino,2002-08-11,24,18-29,São Paulo,2025-01-18
+833,Masculino,2012-10-16,14,13-17,Santo André,2025-01-19
+834,Masculino,1974-04-14,52,45-59,São Paulo,2025-01-19
+835,Feminino,2026-08-18,0,00-12,Santo André,2025-01-20
+836,Feminino,2004-02-20,22,18-29,São Paulo,2025-01-21
+837,Feminino,1974-01-31,52,45-59,São Bernardo do Campo,2025-01-22
+838,Masculino,1993-11-28,32,30-44,São Paulo,2025-01-23
+839,Masculino,1982-10-29,44,30-44,Guarulhos,2025-01-23
+840,Feminino,2017-05-31,9,00-12,São Bernardo do Campo,2025-01-24
+841,Feminino,1977-01-20,49,45-59,São Paulo,2025-01-24
+842,Feminino,1984-10-02,42,30-44,São Paulo,2025-01-25
+843,Masculino,1989-08-19,37,30-44,São Paulo,2025-01-25
+844,Masculino,1982-07-31,44,30-44,São Paulo,2025-01-25
+845,Feminino,1987-03-01,39,30-44,São Paulo,2025-01-26
+846,Feminino,1967-10-03,59,45-59,São Bernardo do Campo,2025-01-27
+847,Feminino,1975-02-18,51,45-59,São Paulo,2025-01-27
+848,Feminino,2005-12-01,20,18-29,Guarulhos,2025-01-28
+849,Feminino,1989-10-10,37,30-44,São Paulo,2025-01-28
+850,Masculino,1995-07-27,31,30-44,Guarulhos,2025-01-29
+851,Masculino,1958-10-03,68,60+,Santo André,2025-01-29
+852,Feminino,2007-04-06,19,18-29,São Paulo,2025-01-29
+853,Feminino,1972-01-27,54,45-59,Guarulhos,2025-01-31
+854,Feminino,1967-08-20,59,45-59,Taboão da Serra,2025-02-01
+855,Feminino,1996-02-14,30,30-44,São Paulo,2025-02-01
+856,Feminino,1965-07-10,61,60+,Santo André,2025-02-01
+857,Masculino,1998-08-26,28,18-29,São Paulo,2025-02-02
+858,Feminino,2001-10-21,25,18-29,São Paulo,2025-02-03
+859,Masculino,1994-07-14,32,30-44,São Paulo,2025-02-04
+860,Masculino,1981-12-31,44,30-44,São Paulo,2025-02-04
+861,Masculino,1958-12-08,67,60+,São Paulo,2025-02-06
+862,Feminino,2000-08-10,26,18-29,São Paulo,2025-02-06
+863,Masculino,2001-05-29,25,18-29,São Paulo,2025-02-07
+864,Feminino,2015-08-22,11,00-12,São Paulo,2025-02-09
+865,Feminino,1984-12-25,41,30-44,São Bernardo do Campo,2025-02-09
+866,Feminino,1958-09-03,68,60+,São Paulo,2025-02-10
+867,Feminino,1991-07-25,35,30-44,São Paulo,2025-02-11
+868,Feminino,1991-12-04,34,30-44,São Paulo,2025-02-11
+869,Feminino,2009-10-31,16,13-17,São Paulo,2025-02-11
+870,Feminino,1980-08-26,46,45-59,São Bernardo do Campo,2025-02-12
+871,Feminino,1995-08-26,31,30-44,Guarulhos,2025-02-12
+872,Feminino,2002-08-19,24,18-29,Taboão da Serra,2025-02-13
+873,Feminino,2017-10-08,9,00-12,São Paulo,2025-02-13
+874,Feminino,1999-12-15,26,18-29,São Paulo,2025-02-15
+875,Feminino,2026-03-14,0,00-12,São Bernardo do Campo,2025-02-15
+876,Feminino,1964-10-21,62,60+,São Paulo,2025-02-16
+877,Feminino,1990-05-14,36,30-44,São Paulo,2025-02-16
+878,Masculino,1997-06-08,29,18-29,Guarulhos,2025-02-16
+879,Masculino,1958-03-19,68,60+,Taboão da Serra,2025-02-17
+880,Masculino,1969-06-23,57,45-59,São Paulo,2025-02-19
+881,Masculino,1970-10-22,56,45-59,São Paulo,2025-02-19
+882,Feminino,1985-05-06,41,30-44,Osasco,2025-02-19
+883,Masculino,1992-11-09,33,30-44,São Paulo,2025-02-20
+884,Masculino,1965-05-04,61,60+,São Paulo,2025-02-22
+885,Masculino,1976-10-13,50,45-59,São Paulo,2025-02-23
+886,Feminino,1971-09-06,55,45-59,São Paulo,2025-02-23
+887,Masculino,1993-02-05,33,30-44,Guarulhos,2025-02-24
+888,Feminino,1995-07-20,31,30-44,Santo André,2025-02-24
+889,Feminino,1979-07-10,47,45-59,Osasco,2025-02-26
+890,Masculino,1975-07-29,51,45-59,Santo André,2025-02-27
+891,Feminino,2001-01-16,25,18-29,Osasco,2025-02-27
+892,Feminino,2002-01-30,24,18-29,Santo André,2025-02-27
+893,Feminino,2003-07-14,23,18-29,Guarulhos,2025-02-28
+894,Feminino,1992-07-31,34,30-44,Santo André,2025-02-28
+895,Feminino,1969-09-22,57,45-59,São Paulo,2025-02-28
+896,Feminino,1994-03-08,32,30-44,São Paulo,2025-02-28
+897,Feminino,1983-12-06,42,30-44,São Paulo,2025-03-01
+898,Feminino,2000-05-03,26,18-29,Santo André,2025-03-02
+899,Masculino,1982-02-08,44,30-44,São Paulo,2025-03-02
+900,Masculino,2009-07-11,17,13-17,São Bernardo do Campo,2025-03-04
+901,Masculino,2003-03-12,23,18-29,São Paulo,2025-03-06
+902,Feminino,1993-08-15,33,30-44,São Paulo,2025-03-06
+903,Feminino,1992-12-07,33,30-44,São Paulo,2025-03-06
+904,Masculino,1986-03-29,40,30-44,Guarulhos,2025-03-06
+905,Feminino,1976-12-08,49,45-59,São Paulo,2025-03-07
+906,Feminino,2021-06-20,5,00-12,São Bernardo do Campo,2025-03-08
+907,Feminino,1994-02-01,32,30-44,Barueri,2025-03-08
+908,Masculino,2016-05-05,10,00-12,São Paulo,2025-03-09
+909,Feminino,1938-10-31,88,60+,São Paulo,2025-03-09
+910,Feminino,1987-06-23,39,30-44,São Paulo,2025-03-09
+911,Masculino,2012-07-30,14,13-17,São Paulo,2025-03-10
+912,Feminino,1986-07-24,40,30-44,São Paulo,2025-03-10
+913,Masculino,1985-07-16,41,30-44,São Paulo,2025-03-10
+914,Feminino,2005-02-12,21,18-29,São Paulo,2025-03-11
+915,Feminino,2000-10-12,26,18-29,São Paulo,2025-03-11
+916,Feminino,2001-11-25,24,18-29,Taboão da Serra,2025-03-11
+917,Feminino,1987-10-11,39,30-44,Guarulhos,2025-03-11
+918,Feminino,1975-10-21,51,45-59,Santo André,2025-03-12
+919,Feminino,1964-09-14,62,60+,Barueri,2025-03-13
+920,Feminino,1966-01-07,60,60+,Taboão da Serra,2025-03-13
+921,Masculino,1984-02-06,42,30-44,São Paulo,2025-03-13
+922,Feminino,2019-12-01,6,00-12,São Paulo,2025-03-14
+923,Feminino,1994-11-06,31,30-44,Guarulhos,2025-03-15
+924,Feminino,2022-09-18,4,00-12,São Paulo,2025-03-15
+925,Feminino,1976-09-06,50,45-59,São Paulo,2025-03-16
+926,Feminino,1979-04-08,47,45-59,São Paulo,2025-03-16
+927,Feminino,1959-01-02,67,60+,Santo André,2025-03-16
+928,Feminino,1986-03-11,40,30-44,Guarulhos,2025-03-16
+929,Feminino,1970-02-02,56,45-59,São Paulo,2025-03-17
+930,Feminino,1961-02-26,65,60+,São Paulo,2025-03-17
+931,Masculino,2020-07-01,6,00-12,São Paulo,2025-03-17
+932,Feminino,1997-05-22,29,18-29,Barueri,2025-03-17
+933,Feminino,1961-04-15,65,60+,São Paulo,2025-03-18
+934,Masculino,1985-04-20,41,30-44,São Paulo,2025-03-19
+935,Masculino,1965-06-21,61,60+,Guarulhos,2025-03-19
+936,Feminino,2017-12-26,8,00-12,Santo André,2025-03-19
+937,Feminino,2012-01-12,14,13-17,Taboão da Serra,2025-03-19
+938,Feminino,2025-02-25,1,00-12,São Paulo,2025-03-20
+939,Feminino,1995-11-22,30,30-44,Osasco,2025-03-20
+940,Feminino,1979-07-05,47,45-59,Guarulhos,2025-03-21
+941,Feminino,2020-05-10,6,00-12,Guarulhos,2025-03-21
+942,Feminino,1981-04-09,45,45-59,São Paulo,2025-03-22
+943,Feminino,1974-03-10,52,45-59,Guarulhos,2025-03-22
+944,Feminino,1991-10-02,35,30-44,São Bernardo do Campo,2025-03-22
+945,Feminino,1999-12-08,26,18-29,São Paulo,2025-03-23
+946,Feminino,2009-07-14,17,13-17,São Paulo,2025-03-24
+947,Masculino,2017-11-04,8,00-12,Osasco,2025-03-24
+948,Feminino,1986-08-23,40,30-44,Osasco,2025-03-25
+949,Masculino,1979-04-18,47,45-59,Guarulhos,2025-03-25
+950,Feminino,1989-04-13,37,30-44,Barueri,2025-03-25
+951,Feminino,1988-05-23,38,30-44,Osasco,2025-03-25
+952,Masculino,2026-01-17,0,00-12,São Paulo,2025-03-26
+953,Masculino,2004-10-06,22,18-29,São Paulo,2025-03-30
+954,Feminino,1956-12-14,69,60+,São Paulo,2025-03-30
+955,Masculino,2005-05-20,21,18-29,São Paulo,2025-03-31
+956,Feminino,2009-10-31,16,13-17,Taboão da Serra,2025-03-31
+957,Feminino,2022-07-01,4,00-12,Guarulhos,2025-04-01
+958,Feminino,1975-10-17,51,45-59,São Bernardo do Campo,2025-04-01
+959,Masculino,1974-11-25,51,45-59,São Paulo,2025-04-02
+960,Masculino,1970-10-29,56,45-59,Guarulhos,2025-04-02
+961,Masculino,1975-01-28,51,45-59,São Paulo,2025-04-03
+962,Feminino,1968-10-15,58,45-59,São Paulo,2025-04-03
+963,Feminino,2019-01-14,7,00-12,São Paulo,2025-04-03
+964,Feminino,1969-10-30,57,45-59,São Paulo,2025-04-03
+965,Feminino,2020-03-27,6,00-12,São Paulo,2025-04-04
+966,Feminino,1966-05-16,60,60+,São Paulo,2025-04-04
+967,Feminino,2001-07-04,25,18-29,Osasco,2025-04-07
+968,Feminino,1969-03-27,57,45-59,Guarulhos,2025-04-07
+969,Masculino,2001-01-20,25,18-29,São Paulo,2025-04-07
+970,Feminino,2019-08-22,7,00-12,São Paulo,2025-04-08
+971,Masculino,1974-08-04,52,45-59,São Paulo,2025-04-08
+972,Masculino,2020-10-14,6,00-12,Guarulhos,2025-04-08
+973,Masculino,1988-07-27,38,30-44,São Paulo,2025-04-09
+974,Masculino,1989-04-26,37,30-44,Santo André,2025-04-09
+975,Feminino,2009-10-31,16,13-17,São Paulo,2025-04-10
+976,Feminino,1963-03-18,63,60+,São Paulo,2025-04-10
+977,Feminino,1998-12-17,27,18-29,São Paulo,2025-04-10
+978,Feminino,1989-03-14,37,30-44,São Paulo,2025-04-11
+979,Masculino,1992-01-07,34,30-44,São Paulo,2025-04-12
+980,Feminino,2016-05-21,10,00-12,São Paulo,2025-04-12
+981,Feminino,2014-02-10,12,00-12,São Paulo,2025-04-12
+982,Feminino,1993-01-16,33,30-44,São Paulo,2025-04-13
+983,Feminino,2026-01-31,0,00-12,São Paulo,2025-04-13
+984,Feminino,1982-11-22,43,30-44,São Bernardo do Campo,2025-04-15
+985,Feminino,1971-10-09,55,45-59,São Paulo,2025-04-15
+986,Feminino,2020-12-22,5,00-12,Taboão da Serra,2025-04-15
+987,Masculino,1993-10-01,33,30-44,Osasco,2025-04-16
+988,Masculino,1960-06-22,66,60+,São Paulo,2025-04-17
+989,Feminino,2009-10-31,16,13-17,Santo André,2025-04-18
+990,Feminino,1962-01-22,64,60+,São Paulo,2025-04-18
+991,Masculino,1991-05-22,35,30-44,São Paulo,2025-04-19
+992,Feminino,2015-03-20,11,00-12,Santo André,2025-04-19
+993,Feminino,1994-11-15,31,30-44,São Paulo,2025-04-20
+994,Feminino,1997-09-15,29,18-29,Guarulhos,2025-04-21
+995,Feminino,1980-04-10,46,45-59,São Paulo,2025-04-21
+996,Feminino,2009-10-31,16,13-17,São Bernardo do Campo,2025-04-22
+997,Masculino,1983-01-16,43,30-44,São Paulo,2025-04-22
+998,Feminino,1992-04-04,34,30-44,São Paulo,2025-04-23
+999,Masculino,1983-12-30,42,30-44,São Paulo,2025-04-23
+1000,Feminino,2009-10-31,16,13-17,São Paulo,2025-04-24
+1001,Masculino,1971-02-20,55,45-59,Taboão da Serra,2025-04-25
+1002,Feminino,2025-01-15,1,00-12,São Paulo,2025-04-25
+1003,Feminino,2013-04-20,13,13-17,Taboão da Serra,2025-04-26
+1004,Masculino,1973-01-14,53,45-59,São Paulo,2025-04-27
+1005,Masculino,1978-03-13,48,45-59,São Paulo,2025-04-27
+1006,Feminino,1976-06-19,50,45-59,São Paulo,2025-04-27
+1007,Masculino,1980-06-12,46,45-59,Osasco,2025-04-27
+1008,Feminino,1988-09-24,38,30-44,São Paulo,2025-04-28
+1009,Masculino,1966-08-21,60,60+,São Paulo,2025-04-28
+1010,Feminino,2017-04-25,9,00-12,São Paulo,2025-04-28
+1011,Feminino,1977-06-07,49,45-59,Taboão da Serra,2025-04-28
+1012,Feminino,1980-01-21,46,45-59,São Paulo,2025-04-28
+1013,Feminino,1978-07-02,48,45-59,Osasco,2025-04-29
+1014,Masculino,1973-09-17,53,45-59,São Paulo,2025-04-29
+1015,Feminino,1978-08-03,48,45-59,São Paulo,2025-04-29
+1016,Feminino,1990-08-26,36,30-44,São Paulo,2025-04-29
+1017,Feminino,1983-07-05,43,30-44,São Paulo,2025-04-30
+1018,Masculino,2020-06-06,6,00-12,Guarulhos,2025-05-01
+1019,Masculino,1988-03-08,38,30-44,São Paulo,2025-05-01
+1020,Feminino,1984-03-22,42,30-44,Barueri,2025-05-02
+1021,Masculino,2018-08-23,8,00-12,Santo André,2025-05-02
+1022,Masculino,2022-11-10,3,00-12,Barueri,2025-05-02
+1023,Feminino,1960-12-11,65,60+,São Paulo,2025-05-04
+1024,Masculino,2004-05-03,22,18-29,Osasco,2025-05-04
+1025,Feminino,2014-12-13,11,00-12,São Paulo,2025-05-04
+1026,Feminino,1984-08-28,42,30-44,São Paulo,2025-05-06
+1027,Feminino,1975-10-18,51,45-59,São Paulo,2025-05-07
+1028,Feminino,1974-09-27,52,45-59,São Paulo,2025-05-07
+1029,Feminino,2015-02-05,11,00-12,São Paulo,2025-05-08
+1030,Feminino,1976-11-18,49,45-59,Barueri,2025-05-08
+1031,Masculino,1988-12-17,37,30-44,São Paulo,2025-05-09
+1032,Masculino,1961-02-20,65,60+,São Paulo,2025-05-09
+1033,Feminino,1996-12-16,29,18-29,Osasco,2025-05-10
+1034,Feminino,1995-03-02,31,30-44,São Paulo,2025-05-11
+1035,Feminino,1983-09-25,43,30-44,São Paulo,2025-05-12
+1036,Feminino,1972-10-17,54,45-59,Osasco,2025-05-12
+1037,Masculino,1986-05-12,40,30-44,São Paulo,2025-05-12
+1038,Feminino,2006-10-19,20,18-29,Santo André,2025-05-12
+1039,Feminino,1981-05-26,45,45-59,Taboão da Serra,2025-05-14
+1040,Feminino,1991-04-02,35,30-44,São Paulo,2025-05-14
+1041,Masculino,1962-01-04,64,60+,São Paulo,2025-05-16
+1042,Feminino,1989-04-05,37,30-44,São Paulo,2025-05-16
+1043,Feminino,2022-03-22,4,00-12,São Bernardo do Campo,2025-05-17
+1044,Masculino,2020-09-26,6,00-12,São Paulo,2025-05-17
+1045,Masculino,1988-04-08,38,30-44,Santo André,2025-05-18
+1046,Masculino,1982-03-20,44,30-44,São Paulo,2025-05-18
+1047,Feminino,1979-10-16,47,45-59,São Paulo,2025-05-19
+1048,Feminino,1969-05-29,57,45-59,São Paulo,2025-05-21
+1049,Masculino,1970-10-01,56,45-59,Santo André,2025-05-22
+1050,Masculino,1982-10-06,44,30-44,Taboão da Serra,2025-05-22
+1051,Feminino,2021-02-06,5,00-12,São Paulo,2025-05-22
+1052,Masculino,1983-06-02,43,30-44,Guarulhos,2025-05-22
+1053,Feminino,2009-10-31,16,13-17,São Paulo,2025-05-23
+1054,Masculino,2009-10-31,16,13-17,Guarulhos,2025-05-23
+1055,Masculino,1990-03-08,36,30-44,São Paulo,2025-05-24
+1056,Masculino,1998-08-29,28,18-29,São Paulo,2025-05-24
+1057,Feminino,1991-06-10,35,30-44,São Bernardo do Campo,2025-05-25
+1058,Masculino,1983-05-15,43,30-44,São Paulo,2025-05-26
+1059,Feminino,1988-12-15,37,30-44,São Paulo,2025-05-27
+1060,Masculino,1975-06-14,51,45-59,Osasco,2025-05-27
+1061,Masculino,2009-10-31,16,13-17,São Bernardo do Campo,2025-05-28
+1062,Masculino,1978-02-04,48,45-59,São Paulo,2025-05-30
+1063,Masculino,1993-09-02,33,30-44,São Paulo,2025-05-30
+1064,Feminino,1957-04-04,69,60+,São Paulo,2025-06-01
+1065,Feminino,1984-12-09,41,30-44,Osasco,2025-06-01
+1066,Feminino,1976-04-16,50,45-59,Osasco,2025-06-01
+1067,Feminino,1985-08-12,41,30-44,Guarulhos,2025-06-01
+1068,Feminino,1992-05-11,34,30-44,São Paulo,2025-06-01
+1069,Feminino,1958-04-28,68,60+,São Paulo,2025-06-01
+1070,Masculino,1997-11-28,28,18-29,Guarulhos,2025-06-02
+1071,Feminino,1991-07-13,35,30-44,São Paulo,2025-06-02
+1072,Feminino,1975-12-05,50,45-59,São Paulo,2025-06-03
+1073,Feminino,1981-06-20,45,45-59,Guarulhos,2025-06-03
+1074,Masculino,2021-08-30,5,00-12,São Paulo,2025-06-04
+1075,Masculino,1968-10-25,58,45-59,São Paulo,2025-06-06
+1076,Masculino,1967-12-25,58,45-59,São Paulo,2025-06-07
+1077,Feminino,2026-05-02,0,00-12,Guarulhos,2025-06-07
+1078,Feminino,1959-06-14,67,60+,São Paulo,2025-06-07
+1079,Feminino,2016-03-17,10,00-12,São Paulo,2025-06-08
+1080,Feminino,2009-10-31,16,13-17,Guarulhos,2025-06-08
+1081,Feminino,2002-06-03,24,18-29,São Paulo,2025-06-08
+1082,Masculino,1988-12-16,37,30-44,São Paulo,2025-06-09
+1083,Feminino,1982-12-06,43,30-44,São Bernardo do Campo,2025-06-09
+1084,Feminino,2013-11-18,12,00-12,São Paulo,2025-06-10
+1085,Feminino,1982-08-19,44,30-44,São Paulo,2025-06-10
+1086,Feminino,1989-04-12,37,30-44,Guarulhos,2025-06-10
+1087,Masculino,1999-08-09,27,18-29,Osasco,2025-06-11
+1088,Feminino,1988-03-18,38,30-44,São Paulo,2025-06-12
+1089,Feminino,1989-06-15,37,30-44,São Paulo,2025-06-12
+1090,Feminino,1996-06-29,30,30-44,São Paulo,2025-06-13
+1091,Feminino,1982-09-02,44,30-44,Osasco,2025-06-13
+1092,Masculino,1995-11-29,30,30-44,Santo André,2025-06-14
+1093,Masculino,2000-07-20,26,18-29,São Paulo,2025-06-14
+1094,Masculino,2020-07-28,6,00-12,São Paulo,2025-06-15
+1095,Feminino,1990-08-21,36,30-44,São Paulo,2025-06-16
+1096,Feminino,1988-06-06,38,30-44,São Bernardo do Campo,2025-06-17
+1097,Feminino,1976-10-23,50,45-59,São Paulo,2025-06-17
+1098,Masculino,1981-05-02,45,45-59,Taboão da Serra,2025-06-18
+1099,Feminino,2000-06-01,26,18-29,Barueri,2025-06-18
+1100,Masculino,2009-10-31,16,13-17,Guarulhos,2025-06-18
+1101,Feminino,1990-09-08,36,30-44,Guarulhos,2025-06-18
+1102,Feminino,1980-11-19,45,45-59,São Bernardo do Campo,2025-06-19
+1103,Masculino,1980-05-25,46,45-59,Guarulhos,2025-06-20
+1104,Feminino,2006-05-13,20,18-29,Guarulhos,2025-06-20
+1105,Masculino,1975-06-03,51,45-59,Osasco,2025-06-22
+1106,Feminino,1985-09-16,41,30-44,Osasco,2025-06-24
+1107,Feminino,1978-05-26,48,45-59,São Bernardo do Campo,2025-06-24
+1108,Masculino,1986-06-03,40,30-44,Guarulhos,2025-06-25
+1109,Masculino,2016-05-13,10,00-12,São Paulo,2025-06-25
+1110,Feminino,2019-04-26,7,00-12,São Paulo,2025-06-25
+1111,Feminino,2013-05-22,13,13-17,São Paulo,2025-06-25
+1112,Feminino,1973-04-13,53,45-59,São Paulo,2025-06-27
+1113,Masculino,1997-04-11,29,18-29,São Bernardo do Campo,2025-06-27
+1114,Masculino,1974-08-22,52,45-59,São Paulo,2025-06-27
+1115,Feminino,2022-08-01,4,00-12,Guarulhos,2025-06-28
+1116,Masculino,1956-07-15,70,60+,São Paulo,2025-06-29
+1117,Feminino,2007-08-19,19,18-29,São Paulo,2025-06-29
+1118,Feminino,2009-10-31,16,13-17,São Paulo,2025-06-29
+1119,Feminino,1988-10-07,38,30-44,São Bernardo do Campo,2025-06-30
+1120,Masculino,1990-04-03,36,30-44,Osasco,2025-06-30
+1121,Masculino,1982-09-12,44,30-44,Guarulhos,2025-06-30
+1122,Feminino,2004-12-25,21,18-29,Taboão da Serra,2025-07-02
+1123,Masculino,2023-08-09,3,00-12,Guarulhos,2025-07-02
+1124,Feminino,1938-11-20,87,60+,Guarulhos,2025-07-02
+1125,Feminino,2009-10-31,16,13-17,São Paulo,2025-07-02
+1126,Feminino,1996-10-04,30,30-44,São Paulo,2025-07-02
+1127,Masculino,1987-04-15,39,30-44,Santo André,2025-07-04
+1128,Feminino,2009-10-31,16,13-17,São Paulo,2025-07-05
+1129,Feminino,2016-12-03,9,00-12,São Paulo,2025-07-05
+1130,Feminino,1979-11-29,46,45-59,São Paulo,2025-07-06
+1131,Feminino,2009-10-31,16,13-17,Guarulhos,2025-07-06
+1132,Masculino,1949-04-08,77,60+,São Bernardo do Campo,2025-07-07
+1133,Masculino,1961-09-21,65,60+,Barueri,2025-07-08
+1134,Masculino,2017-05-09,9,00-12,São Paulo,2025-07-09
+1135,Feminino,1975-08-17,51,45-59,São Paulo,2025-07-09
+1136,Feminino,2019-07-28,7,00-12,São Paulo,2025-07-09
+1137,Feminino,1975-01-14,51,45-59,São Paulo,2025-07-10
+1138,Feminino,1964-03-06,62,60+,São Paulo,2025-07-11
+1139,Masculino,1990-05-06,36,30-44,São Paulo,2025-07-11
+1140,Feminino,2026-07-10,0,00-12,Osasco,2025-07-11
+1141,Feminino,1986-11-03,39,30-44,São Paulo,2025-07-13
+1142,Feminino,1994-08-01,32,30-44,São Paulo,2025-07-14
+1143,Feminino,2000-05-05,26,18-29,Guarulhos,2025-07-14
+1144,Feminino,1998-01-13,28,18-29,Santo André,2025-07-14
+1145,Masculino,2018-06-04,8,00-12,Guarulhos,2025-07-14
+1146,Masculino,1976-03-06,50,45-59,Santo André,2025-07-15
+1147,Feminino,1979-06-17,47,45-59,São Paulo,2025-07-16
+1148,Feminino,1981-10-15,45,45-59,Guarulhos,2025-07-16
+1149,Feminino,1957-01-02,69,60+,Osasco,2025-07-16
+1150,Masculino,1973-01-04,53,45-59,São Paulo,2025-07-17
+1151,Feminino,2009-10-31,16,13-17,São Paulo,2025-07-18
+1152,Masculino,1976-01-29,50,45-59,Taboão da Serra,2025-07-19
+1153,Masculino,2026-06-29,0,00-12,São Bernardo do Campo,2025-07-20
+1154,Masculino,1974-12-15,51,45-59,São Paulo,2025-07-21
+1155,Masculino,1974-12-07,51,45-59,Santo André,2025-07-21
+1156,Feminino,2009-10-31,16,13-17,São Paulo,2025-07-22
+1157,Masculino,1969-08-23,57,45-59,Osasco,2025-07-22
+1158,Feminino,2007-07-11,19,18-29,Osasco,2025-07-23
+1159,Masculino,2024-11-13,1,00-12,São Paulo,2025-07-23
+1160,Feminino,1981-12-30,44,30-44,São Paulo,2025-07-24
+1161,Masculino,1990-08-10,36,30-44,Guarulhos,2025-07-24
+1162,Feminino,1987-08-04,39,30-44,São Paulo,2025-07-25
+1163,Masculino,1988-02-27,38,30-44,São Paulo,2025-07-25
+1164,Feminino,2019-12-12,6,00-12,Taboão da Serra,2025-07-25
+1165,Masculino,1992-10-29,34,30-44,Barueri,2025-07-25
+1166,Masculino,1949-12-31,76,60+,Barueri,2025-07-27
+1167,Feminino,1982-09-16,44,30-44,Guarulhos,2025-07-27
+1168,Feminino,1982-09-04,44,30-44,Santo André,2025-07-27
+1169,Masculino,2019-10-21,7,00-12,São Paulo,2025-07-28
+1170,Feminino,1996-07-13,30,30-44,Taboão da Serra,2025-07-30
+1171,Masculino,1962-10-01,64,60+,São Paulo,2025-07-30
+1172,Feminino,1977-09-29,49,45-59,São Paulo,2025-07-30
+1173,Masculino,1968-06-01,58,45-59,São Paulo,2025-07-31
+1174,Masculino,1990-07-21,36,30-44,São Paulo,2025-07-31
+1175,Feminino,2012-04-24,14,13-17,São Paulo,2025-07-31
+1176,Masculino,1978-02-06,48,45-59,Guarulhos,2025-07-31
+1177,Masculino,1988-06-17,38,30-44,São Paulo,2025-07-31
+1178,Masculino,2003-02-16,23,18-29,Guarulhos,2025-08-01
+1179,Masculino,2026-02-09,0,00-12,Osasco,2025-08-01
+1180,Masculino,1990-02-27,36,30-44,São Paulo,2025-08-01
+1181,Masculino,1965-09-16,61,60+,São Paulo,2025-08-02
+1182,Masculino,1970-12-24,55,45-59,Taboão da Serra,2025-08-02
+1183,Feminino,1975-12-31,50,45-59,Taboão da Serra,2025-08-02
+1184,Feminino,2017-10-26,9,00-12,São Paulo,2025-08-03
+1185,Masculino,2021-03-23,5,00-12,São Paulo,2025-08-03
+1186,Masculino,1996-02-21,30,30-44,São Paulo,2025-08-06
+1187,Feminino,2012-03-07,14,13-17,São Paulo,2025-08-06
+1188,Feminino,1975-03-01,51,45-59,Guarulhos,2025-08-06
+1189,Feminino,2020-12-05,5,00-12,Osasco,2025-08-06
+1190,Masculino,2026-06-03,0,00-12,São Paulo,2025-08-07
+1191,Feminino,1975-03-13,51,45-59,São Bernardo do Campo,2025-08-07
+1192,Feminino,2016-04-18,10,00-12,São Paulo,2025-08-07
+1193,Feminino,1983-10-25,43,30-44,São Paulo,2025-08-09
+1194,Feminino,1987-05-30,39,30-44,São Paulo,2025-08-10
+1195,Feminino,1979-04-04,47,45-59,Santo André,2025-08-10
+1196,Masculino,1974-05-07,52,45-59,Santo André,2025-08-11
+1197,Masculino,2026-04-19,0,00-12,São Bernardo do Campo,2025-08-11
+1198,Masculino,2006-09-16,20,18-29,Barueri,2025-08-11
+1199,Feminino,1990-09-18,36,30-44,São Paulo,2025-08-12
+1200,Masculino,1973-03-29,53,45-59,São Paulo,2025-08-13
+1201,Feminino,1996-07-03,30,30-44,São Paulo,2025-08-14
+1202,Feminino,1964-12-17,61,60+,Osasco,2025-08-15
+1203,Feminino,1976-10-27,50,45-59,São Paulo,2025-08-16
+1204,Feminino,1995-03-16,31,30-44,São Paulo,2025-08-17
+1205,Masculino,1990-05-02,36,30-44,Taboão da Serra,2025-08-17
+1206,Feminino,1973-03-20,53,45-59,São Paulo,2025-08-18
+1207,Feminino,2009-07-31,17,13-17,São Paulo,2025-08-19
+1208,Feminino,2009-10-31,16,13-17,Osasco,2025-08-20
+1209,Feminino,2014-04-03,12,00-12,São Paulo,2025-08-20
+1210,Feminino,2014-03-22,12,00-12,Santo André,2025-08-20
+1211,Feminino,2003-11-25,22,18-29,São Paulo,2025-08-21
+1212,Feminino,2014-01-08,12,00-12,São Paulo,2025-08-21
+1213,Feminino,2021-11-04,4,00-12,Taboão da Serra,2025-08-22
+1214,Feminino,1989-05-07,37,30-44,Barueri,2025-08-22
+1215,Feminino,1956-12-08,69,60+,Barueri,2025-08-22
+1216,Masculino,1994-08-14,32,30-44,São Paulo,2025-08-22
+1217,Masculino,1983-10-03,43,30-44,São Paulo,2025-08-22
+1218,Masculino,1986-10-20,40,30-44,Osasco,2025-08-23
+1219,Feminino,1975-01-05,51,45-59,Guarulhos,2025-08-23
+1220,Feminino,1999-06-30,27,18-29,Osasco,2025-08-23
+1221,Feminino,1986-04-26,40,30-44,Santo André,2025-08-23
+1222,Feminino,1968-12-06,57,45-59,Santo André,2025-08-24
+1223,Masculino,1991-07-02,35,30-44,São Paulo,2025-08-25
+1224,Feminino,1977-08-07,49,45-59,São Bernardo do Campo,2025-08-25
+1225,Masculino,1970-10-18,56,45-59,São Paulo,2025-08-26
+1226,Masculino,1990-12-30,35,30-44,São Paulo,2025-08-26
+1227,Feminino,1962-01-27,64,60+,São Paulo,2025-08-26
+1228,Masculino,1978-06-24,48,45-59,São Paulo,2025-08-27
+1229,Masculino,1993-04-17,33,30-44,São Paulo,2025-08-28
+1230,Feminino,1990-01-24,36,30-44,Guarulhos,2025-08-28
+1231,Feminino,2002-03-02,24,18-29,Santo André,2025-08-29
+1232,Feminino,1993-06-27,33,30-44,São Paulo,2025-08-30
+1233,Feminino,1997-02-07,29,18-29,Barueri,2025-08-30
+1234,Feminino,1997-03-30,29,18-29,São Paulo,2025-08-31
+1235,Masculino,2009-10-31,16,13-17,São Paulo,2025-08-31
+1236,Feminino,1999-10-23,27,18-29,Guarulhos,2025-08-31
+1237,Feminino,2004-01-08,22,18-29,São Paulo,2025-09-01
+1238,Masculino,2017-05-28,9,00-12,São Paulo,2025-09-01
+1239,Feminino,1976-02-14,50,45-59,São Paulo,2025-09-01
+1240,Feminino,1976-07-23,50,45-59,Osasco,2025-09-02
+1241,Masculino,1973-08-05,53,45-59,São Paulo,2025-09-02
+1242,Feminino,1985-10-31,40,30-44,Taboão da Serra,2025-09-02
+1243,Feminino,1982-09-25,44,30-44,Santo André,2025-09-02
+1244,Feminino,1997-11-12,28,18-29,Santo André,2025-09-03
+1245,Masculino,1971-09-17,55,45-59,São Paulo,2025-09-03
+1246,Feminino,1981-07-01,45,45-59,Guarulhos,2025-09-03
+1247,Feminino,1958-03-16,68,60+,São Paulo,2025-09-05
+1248,Feminino,1988-08-11,38,30-44,São Paulo,2025-09-05
+1249,Feminino,1975-11-14,50,45-59,Osasco,2025-09-05
+1250,Feminino,1997-07-31,29,18-29,Guarulhos,2025-09-05
+1251,Masculino,2009-10-31,16,13-17,São Bernardo do Campo,2025-09-05
+1252,Feminino,1958-02-15,68,60+,São Paulo,2025-09-06
+1253,Masculino,2021-02-16,5,00-12,Taboão da Serra,2025-09-06
+1254,Masculino,1976-04-15,50,45-59,São Paulo,2025-09-07
+1255,Feminino,2012-03-05,14,13-17,São Paulo,2025-09-07
+1256,Feminino,2018-06-12,8,00-12,São Paulo,2025-09-09
+1257,Feminino,1974-07-04,52,45-59,São Paulo,2025-09-09
+1258,Feminino,2015-01-15,11,00-12,São Paulo,2025-09-10
+1259,Masculino,1983-10-13,43,30-44,São Paulo,2025-09-10
+1260,Feminino,1985-04-03,41,30-44,São Paulo,2025-09-10
+1261,Feminino,1991-12-27,34,30-44,São Paulo,2025-09-10
+1262,Feminino,1961-09-02,65,60+,São Bernardo do Campo,2025-09-11
+1263,Masculino,1987-03-02,39,30-44,São Paulo,2025-09-11
+1264,Feminino,1963-05-28,63,60+,São Paulo,2025-09-11
+1265,Masculino,1989-01-29,37,30-44,Guarulhos,2025-09-13
+1266,Feminino,1970-05-14,56,45-59,São Paulo,2025-09-13
+1267,Feminino,1972-05-19,54,45-59,São Paulo,2025-09-13
+1268,Feminino,1975-06-02,51,45-59,Guarulhos,2025-09-14
+1269,Masculino,1972-08-05,54,45-59,São Paulo,2025-09-14
+1270,Feminino,1966-10-28,60,60+,Santo André,2025-09-14
+1271,Feminino,1974-09-29,52,45-59,São Paulo,2025-09-15
+1272,Masculino,1959-09-08,67,60+,São Paulo,2025-09-15
+1273,Masculino,1995-09-06,31,30-44,São Bernardo do Campo,2025-09-16
+1274,Masculino,1982-01-15,44,30-44,São Paulo,2025-09-17
+1275,Masculino,2006-10-16,20,18-29,Guarulhos,2025-09-17
+1276,Masculino,1963-03-17,63,60+,Guarulhos,2025-09-18
+1277,Masculino,2006-05-03,20,18-29,São Paulo,2025-09-18
+1278,Feminino,1976-04-19,50,45-59,São Paulo,2025-09-19
+1279,Feminino,1983-05-21,43,30-44,Guarulhos,2025-09-21
+1280,Feminino,1986-03-14,40,30-44,São Paulo,2025-09-21
+1281,Masculino,1967-04-05,59,45-59,São Paulo,2025-09-21
+1282,Feminino,1980-04-01,46,45-59,São Paulo,2025-09-22
+1283,Masculino,1985-11-27,40,30-44,São Paulo,2025-09-23
+1284,Feminino,1989-10-10,37,30-44,Osasco,2025-09-23
+1285,Masculino,1996-05-07,30,30-44,São Paulo,2025-09-23
+1286,Feminino,1978-01-12,48,45-59,São Paulo,2025-09-23
+1287,Feminino,2003-04-03,23,18-29,São Paulo,2025-09-23
+1288,Feminino,2021-03-17,5,00-12,Guarulhos,2025-09-23
+1289,Feminino,1979-03-21,47,45-59,São Paulo,2025-09-24
+1290,Masculino,1984-02-21,42,30-44,São Bernardo do Campo,2025-09-24
+1291,Feminino,2021-04-26,5,00-12,São Paulo,2025-09-25
+1292,Feminino,2009-10-31,16,13-17,São Bernardo do Campo,2025-09-25
+1293,Masculino,1980-10-21,46,45-59,Guarulhos,2025-09-25
+1294,Feminino,2014-08-06,12,00-12,Santo André,2025-09-25
+1295,Masculino,1983-07-01,43,30-44,Osasco,2025-09-27
+1296,Masculino,2022-12-02,3,00-12,São Paulo,2025-09-27
+1297,Feminino,1970-09-26,56,45-59,São Paulo,2025-09-27
+1298,Feminino,1985-02-11,41,30-44,São Paulo,2025-09-28
+1299,Feminino,2000-09-30,26,18-29,Santo André,2025-09-28
+1300,Feminino,2018-06-10,8,00-12,Santo André,2025-09-28
+1301,Feminino,1990-07-07,36,30-44,São Paulo,2025-09-29
+1302,Feminino,1993-12-29,32,30-44,São Paulo,2025-09-29
+1303,Feminino,1993-04-26,33,30-44,São Paulo,2025-09-29
+1304,Masculino,2020-09-11,6,00-12,São Paulo,2025-09-29
+1305,Masculino,1989-04-19,37,30-44,São Paulo,2025-09-29
+1306,Masculino,1978-03-09,48,45-59,Guarulhos,2025-09-30
+1307,Feminino,1996-06-19,30,30-44,Osasco,2025-09-30
+1308,Feminino,1994-09-19,32,30-44,Guarulhos,2025-09-30
+1309,Masculino,2022-12-28,3,00-12,São Paulo,2025-09-30
+1310,Feminino,1995-12-18,30,30-44,São Paulo,2025-09-30
+1311,Feminino,1990-04-10,36,30-44,Santo André,2025-10-01
+1312,Feminino,2009-10-31,16,13-17,São Bernardo do Campo,2025-10-01
+1313,Masculino,2015-09-29,11,00-12,São Paulo,2025-10-01
+1314,Feminino,2012-10-05,14,13-17,São Paulo,2025-10-01
+1315,Feminino,2019-01-05,7,00-12,Taboão da Serra,2025-10-02
+1316,Masculino,2002-06-18,24,18-29,São Paulo,2025-10-02
+1317,Masculino,1981-12-29,44,30-44,São Bernardo do Campo,2025-10-02
+1318,Masculino,1987-12-08,38,30-44,São Paulo,2025-10-03
+1319,Feminino,2009-10-31,16,13-17,Barueri,2025-10-04
+1320,Feminino,2009-10-31,16,13-17,São Paulo,2025-10-05
+1321,Masculino,2022-03-19,4,00-12,São Paulo,2025-10-05
+1322,Feminino,1989-03-26,37,30-44,São Paulo,2025-10-06
+1323,Masculino,1968-04-04,58,45-59,São Paulo,2025-10-06
+1324,Feminino,1964-10-13,62,60+,São Paulo,2025-10-06
+1325,Masculino,1991-07-24,35,30-44,São Paulo,2025-10-07
+1326,Masculino,1983-04-22,43,30-44,São Paulo,2025-10-07
+1327,Feminino,1953-11-30,72,60+,São Paulo,2025-10-07
+1328,Feminino,2019-08-28,7,00-12,São Paulo,2025-10-08
+1329,Feminino,1968-03-22,58,45-59,Taboão da Serra,2025-10-08
+1330,Feminino,1994-06-15,32,30-44,São Bernardo do Campo,2025-10-09
+1331,Masculino,1979-10-06,47,45-59,Guarulhos,2025-10-09
+1332,Feminino,1965-05-06,61,60+,São Paulo,2025-10-10
+1333,Feminino,1990-02-17,36,30-44,São Paulo,2025-10-10
+1334,Feminino,1969-10-15,57,45-59,São Paulo,2025-10-10
+1335,Masculino,2024-07-07,2,00-12,São Paulo,2025-10-11
+1336,Feminino,1973-07-26,53,45-59,São Paulo,2025-10-12
+1337,Masculino,1995-02-28,31,30-44,Barueri,2025-10-12
+1338,Masculino,2008-03-05,18,18-29,São Paulo,2025-10-12
+1339,Masculino,1975-11-23,50,45-59,São Paulo,2025-10-12
+1340,Masculino,1987-11-03,38,30-44,Osasco,2025-10-12
+1341,Feminino,2016-04-12,10,00-12,Taboão da Serra,2025-10-13
+1342,Masculino,1992-10-21,34,30-44,São Bernardo do Campo,2025-10-13
+1343,Masculino,1991-04-16,35,30-44,São Paulo,2025-10-13
+1344,Feminino,1971-05-14,55,45-59,São Paulo,2025-10-14
+1345,Masculino,1962-07-15,64,60+,São Paulo,2025-10-16
+1346,Masculino,1984-10-12,42,30-44,São Paulo,2025-10-16
+1347,Masculino,2009-10-31,16,13-17,Osasco,2025-10-16
+1348,Masculino,1995-08-08,31,30-44,Guarulhos,2025-10-16
+1349,Feminino,1966-08-22,60,60+,Guarulhos,2025-10-16
+1350,Masculino,1997-11-13,28,18-29,São Paulo,2025-10-17
+1351,Masculino,2021-03-01,5,00-12,Osasco,2025-10-17
+1352,Feminino,1996-12-12,29,18-29,São Paulo,2025-10-17
+1353,Masculino,1970-10-13,56,45-59,Osasco,2025-10-19
+1354,Feminino,2014-11-07,11,00-12,São Paulo,2025-10-19
+1355,Feminino,2014-05-28,12,00-12,Osasco,2025-10-19
+1356,Masculino,1999-03-28,27,18-29,São Paulo,2025-10-20
+1357,Masculino,1985-01-08,41,30-44,Santo André,2025-10-20
+1358,Masculino,1972-12-17,53,45-59,São Paulo,2025-10-20
+1359,Masculino,1971-05-10,55,45-59,São Paulo,2025-10-20
+1360,Feminino,2025-04-13,1,00-12,Guarulhos,2025-10-20
+1361,Feminino,1974-02-03,52,45-59,São Paulo,2025-10-20
+1362,Feminino,2001-01-01,25,18-29,Osasco,2025-10-21
+1363,Masculino,1996-04-02,30,30-44,Guarulhos,2025-10-21
+1364,Masculino,1998-12-12,27,18-29,São Paulo,2025-10-22
+1365,Masculino,2013-11-02,12,00-12,São Paulo,2025-10-22
+1366,Feminino,2009-10-31,16,13-17,São Paulo,2025-10-23
+1367,Feminino,1978-05-15,48,45-59,São Paulo,2025-10-23
+1368,Feminino,1980-02-01,46,45-59,São Paulo,2025-10-24
+1369,Masculino,1987-10-14,39,30-44,Guarulhos,2025-10-24
+1370,Masculino,1972-11-16,53,45-59,Osasco,2025-10-24
+1371,Feminino,1959-12-26,66,60+,São Paulo,2025-10-24
+1372,Feminino,1954-08-01,72,60+,São Paulo,2025-10-25
+1373,Feminino,2009-10-31,16,13-17,São Paulo,2025-10-25
+1374,Masculino,1991-10-01,35,30-44,São Paulo,2025-10-25
+1375,Masculino,1974-02-10,52,45-59,Taboão da Serra,2025-10-26
+1376,Feminino,1992-05-27,34,30-44,Guarulhos,2025-10-26
+1377,Masculino,2018-06-05,8,00-12,Guarulhos,2025-10-27
+1378,Feminino,2022-07-16,4,00-12,São Bernardo do Campo,2025-10-27
+1379,Masculino,2019-08-08,7,00-12,São Paulo,2025-10-27
+1380,Masculino,1992-05-06,34,30-44,Guarulhos,2025-10-27
+1381,Masculino,2017-08-19,9,00-12,São Paulo,2025-10-27
+1382,Masculino,1951-05-27,75,60+,São Paulo,2025-10-28
+1383,Feminino,1965-11-13,60,60+,São Paulo,2025-10-28
+1384,Feminino,2026-08-27,0,00-12,São Paulo,2025-10-28
+1385,Masculino,2023-11-06,2,00-12,São Bernardo do Campo,2025-10-28
+1386,Masculino,2023-03-25,3,00-12,Santo André,2025-10-29
+1387,Feminino,1994-08-29,32,30-44,São Paulo,2025-10-29
+1388,Masculino,1983-11-03,42,30-44,São Paulo,2025-10-30
+1389,Masculino,1984-09-18,42,30-44,São Bernardo do Campo,2025-10-30
+1390,Feminino,1998-05-30,28,18-29,São Paulo,2025-10-31
+1391,Feminino,1978-11-30,47,45-59,São Paulo,2025-10-31
+1392,Masculino,1982-09-11,44,30-44,São Paulo,2025-11-02
+1393,Masculino,2019-08-19,7,00-12,Osasco,2025-11-03
+1394,Feminino,1977-06-16,49,45-59,São Paulo,2025-11-04
+1395,Feminino,2016-01-10,10,00-12,Osasco,2025-11-05
+1396,Feminino,2014-12-07,11,00-12,Santo André,2025-11-08
+1397,Masculino,2026-06-27,0,00-12,São Paulo,2025-11-08
+1398,Feminino,2026-05-11,0,00-12,São Paulo,2025-11-09
+1399,Feminino,1977-05-04,49,45-59,Santo André,2025-11-10
+1400,Feminino,1966-12-16,59,45-59,São Paulo,2025-11-10
+1401,Masculino,2017-08-10,9,00-12,São Paulo,2025-11-11
+1402,Masculino,1975-03-09,51,45-59,Guarulhos,2025-11-11
+1403,Feminino,1993-08-02,33,30-44,São Paulo,2025-11-11
+1404,Masculino,1967-06-09,59,45-59,Osasco,2025-11-12
+1405,Masculino,2017-11-26,8,00-12,Santo André,2025-11-13
+1406,Masculino,1975-03-30,51,45-59,São Paulo,2025-11-13
+1407,Feminino,2004-12-05,21,18-29,São Bernardo do Campo,2025-11-14
+1408,Feminino,1979-06-03,47,45-59,Barueri,2025-11-16
+1409,Feminino,2005-03-03,21,18-29,Guarulhos,2025-11-16
+1410,Feminino,1979-02-18,47,45-59,São Paulo,2025-11-16
+1411,Masculino,1973-12-24,52,45-59,São Paulo,2025-11-16
+1412,Masculino,2008-07-26,18,18-29,São Paulo,2025-11-16
+1413,Masculino,1968-05-24,58,45-59,São Paulo,2025-11-16
+1414,Masculino,1978-05-31,48,45-59,Osasco,2025-11-17
+1415,Feminino,2018-08-30,8,00-12,São Paulo,2025-11-17
+1416,Feminino,1938-10-31,88,60+,Santo André,2025-11-17
+1417,Feminino,1978-12-17,47,45-59,São Paulo,2025-11-17
+1418,Masculino,1968-02-05,58,45-59,São Paulo,2025-11-18
+1419,Masculino,1939-01-02,87,60+,Guarulhos,2025-11-18
+1420,Masculino,1977-08-29,49,45-59,Taboão da Serra,2025-11-19
+1421,Masculino,1990-02-02,36,30-44,Taboão da Serra,2025-11-20
+1422,Masculino,1972-03-07,54,45-59,São Paulo,2025-11-20
+1423,Feminino,1976-04-13,50,45-59,São Paulo,2025-11-20
+1424,Masculino,2024-08-03,2,00-12,Guarulhos,2025-11-21
+1425,Masculino,1971-04-30,55,45-59,São Paulo,2025-11-21
+1426,Feminino,1994-06-09,32,30-44,Osasco,2025-11-22
+1427,Masculino,1982-11-23,43,30-44,Guarulhos,2025-11-22
+1428,Feminino,1991-02-27,35,30-44,São Paulo,2025-11-23
+1429,Masculino,1967-06-01,59,45-59,Osasco,2025-11-23
+1430,Masculino,1964-01-08,62,60+,São Bernardo do Campo,2025-11-23
+1431,Feminino,1991-11-28,34,30-44,São Paulo,2025-11-24
+1432,Masculino,2019-10-11,7,00-12,São Paulo,2025-11-24
+1433,Feminino,2022-11-19,3,00-12,São Paulo,2025-11-24
+1434,Feminino,2021-04-12,5,00-12,São Paulo,2025-11-24
+1435,Feminino,1983-12-30,42,30-44,Guarulhos,2025-11-25
+1436,Feminino,1976-07-25,50,45-59,Santo André,2025-11-25
+1437,Feminino,1970-11-19,55,45-59,Guarulhos,2025-11-26
+1438,Feminino,2005-05-02,21,18-29,São Bernardo do Campo,2025-11-26
+1439,Feminino,1976-07-05,50,45-59,São Bernardo do Campo,2025-11-27
+1440,Masculino,1960-10-31,65,60+,São Paulo,2025-11-27
+1441,Masculino,1982-07-14,44,30-44,Barueri,2025-11-27
+1442,Feminino,1987-09-07,39,30-44,Guarulhos,2025-11-27
+1443,Feminino,1967-12-27,58,45-59,São Paulo,2025-11-27
+1444,Feminino,1984-10-01,42,30-44,Santo André,2025-11-27
+1445,Masculino,1999-04-06,27,18-29,Santo André,2025-11-27
+1446,Feminino,1946-11-16,79,60+,São Paulo,2025-11-29
+1447,Masculino,1985-04-15,41,30-44,São Paulo,2025-11-30
+1448,Feminino,1972-06-03,54,45-59,São Paulo,2025-12-01
+1449,Feminino,1990-05-26,36,30-44,Taboão da Serra,2025-12-01
+1450,Feminino,2009-10-16,17,13-17,São Paulo,2025-12-02
+1451,Masculino,1993-03-09,33,30-44,Guarulhos,2025-12-03
+1452,Masculino,2021-11-26,4,00-12,Osasco,2025-12-04
+1453,Feminino,1982-05-10,44,30-44,São Paulo,2025-12-05
+1454,Feminino,2007-10-24,19,18-29,Osasco,2025-12-06
+1455,Feminino,1970-04-23,56,45-59,São Bernardo do Campo,2025-12-06
+1456,Feminino,2009-10-31,16,13-17,São Paulo,2025-12-07
+1457,Masculino,1992-08-19,34,30-44,São Paulo,2025-12-08
+1458,Masculino,1985-10-30,41,30-44,São Paulo,2025-12-08
+1459,Feminino,1983-06-12,43,30-44,São Paulo,2025-12-08
+1460,Feminino,1961-09-20,65,60+,São Paulo,2025-12-10
+1461,Masculino,2023-11-16,2,00-12,São Paulo,2025-12-10
+1462,Feminino,1980-03-31,46,45-59,Taboão da Serra,2025-12-11
+1463,Masculino,1978-07-04,48,45-59,Guarulhos,2025-12-11
+1464,Feminino,1993-05-07,33,30-44,São Paulo,2025-12-12
+1465,Feminino,1972-10-30,54,45-59,Guarulhos,2025-12-13
+1466,Feminino,2018-08-22,8,00-12,São Paulo,2025-12-13
+1467,Feminino,1991-12-03,34,30-44,Osasco,2025-12-14
+1468,Masculino,2020-06-02,6,00-12,São Bernardo do Campo,2025-12-15
+1469,Feminino,1978-04-15,48,45-59,São Paulo,2025-12-15
+1470,Feminino,1947-02-15,79,60+,São Paulo,2025-12-15
+1471,Feminino,1949-10-23,77,60+,São Paulo,2025-12-16
+1472,Feminino,1980-03-01,46,45-59,São Paulo,2025-12-16
+1473,Feminino,1989-03-15,37,30-44,Santo André,2025-12-18
+1474,Masculino,1955-07-26,71,60+,Guarulhos,2025-12-20
+1475,Masculino,1981-08-18,45,45-59,Guarulhos,2025-12-23
+1476,Masculino,2009-10-31,16,13-17,Guarulhos,2025-12-25
+1477,Feminino,1987-10-05,39,30-44,Taboão da Serra,2025-12-26
+1478,Feminino,2013-05-13,13,13-17,Taboão da Serra,2025-12-26
+1479,Feminino,2003-01-24,23,18-29,São Bernardo do Campo,2025-12-27
+1480,Masculino,1979-08-04,47,45-59,São Paulo,2025-12-27
+1481,Masculino,1982-06-07,44,30-44,São Paulo,2025-12-27
+1482,Feminino,1970-08-01,56,45-59,São Paulo,2025-12-28
+1483,Masculino,1977-10-08,49,45-59,São Paulo,2025-12-28
+1484,Feminino,1997-08-04,29,18-29,Osasco,2025-12-29
+1485,Masculino,1958-11-22,67,60+,Guarulhos,2025-12-30
+1486,Feminino,1981-11-02,44,30-44,São Paulo,2025-12-30
+1487,Feminino,1961-09-14,65,60+,São Paulo,2025-12-31
+1488,Feminino,2003-07-18,23,18-29,São Paulo,2026-01-01
+1489,Feminino,2001-08-29,25,18-29,São Paulo,2026-01-01
+1490,Feminino,1967-02-02,59,45-59,São Paulo,2026-01-02
+1491,Feminino,1972-06-01,54,45-59,São Paulo,2026-01-03
+1492,Masculino,1989-05-05,37,30-44,São Bernardo do Campo,2026-01-04
+1493,Feminino,1981-08-17,45,45-59,São Paulo,2026-01-04
+1494,Feminino,1975-03-18,51,45-59,São Paulo,2026-01-04
+1495,Feminino,1977-02-20,49,45-59,São Paulo,2026-01-05
+1496,Feminino,1999-05-25,27,18-29,São Paulo,2026-01-05
+1497,Feminino,2019-08-15,7,00-12,São Paulo,2026-01-06
+1498,Masculino,1987-04-22,39,30-44,São Paulo,2026-01-06
+1499,Feminino,2024-03-16,2,00-12,São Paulo,2026-01-06
+1500,Feminino,2021-07-11,5,00-12,Guarulhos,2026-01-07
+1501,Feminino,2007-10-27,19,18-29,Osasco,2026-01-07
+1502,Feminino,2017-06-08,9,00-12,São Paulo,2026-01-07
+1503,Feminino,2014-03-21,12,00-12,São Paulo,2026-01-09
+1504,Feminino,1952-04-12,74,60+,Osasco,2026-01-09
+1505,Masculino,1981-06-08,45,45-59,São Paulo,2026-01-10
+1506,Feminino,2016-05-07,10,00-12,São Paulo,2026-01-10
+1507,Feminino,1987-09-15,39,30-44,São Paulo,2026-01-10
+1508,Feminino,2003-02-15,23,18-29,São Paulo,2026-01-11
+1509,Masculino,1966-03-31,60,60+,São Paulo,2026-01-11
+1510,Feminino,2022-12-23,3,00-12,São Paulo,2026-01-13
+1511,Masculino,1966-04-26,60,60+,São Paulo,2026-01-13
+1512,Masculino,1955-02-04,71,60+,São Paulo,2026-01-13
+1513,Feminino,1989-12-12,36,30-44,São Bernardo do Campo,2026-01-15
+1514,Feminino,1987-08-12,39,30-44,São Bernardo do Campo,2026-01-17
+1515,Feminino,2003-11-28,22,18-29,São Paulo,2026-01-17
+1516,Masculino,1986-08-18,40,30-44,São Paulo,2026-01-17
+1517,Masculino,1967-01-10,59,45-59,São Paulo,2026-01-17
+1518,Masculino,1996-12-28,29,18-29,São Paulo,2026-01-18
+1519,Feminino,2004-12-03,21,18-29,Guarulhos,2026-01-18
+1520,Feminino,1974-03-23,52,45-59,São Bernardo do Campo,2026-01-19
+1521,Feminino,1961-06-20,65,60+,São Bernardo do Campo,2026-01-19
+1522,Masculino,2018-06-13,8,00-12,São Paulo,2026-01-20
+1523,Feminino,1975-04-16,51,45-59,São Paulo,2026-01-20
+1524,Masculino,1970-04-03,56,45-59,São Paulo,2026-01-22
+1525,Feminino,1977-06-15,49,45-59,São Paulo,2026-01-23
+1526,Masculino,1968-11-02,57,45-59,São Paulo,2026-01-24
+1527,Masculino,2019-08-26,7,00-12,Guarulhos,2026-01-24
+1528,Masculino,1966-06-04,60,60+,São Paulo,2026-01-25
+1529,Masculino,1982-07-30,44,30-44,São Paulo,2026-01-26
+1530,Feminino,1979-08-04,47,45-59,São Paulo,2026-01-27
+1531,Feminino,1988-05-03,38,30-44,São Paulo,2026-01-27
+1532,Masculino,1988-12-03,37,30-44,São Paulo,2026-01-28
+1533,Feminino,1978-11-18,47,45-59,São Bernardo do Campo,2026-01-28
+1534,Feminino,2024-03-09,2,00-12,Osasco,2026-01-28
+1535,Masculino,1967-03-19,59,45-59,Osasco,2026-01-29
+1536,Masculino,2020-05-07,6,00-12,Guarulhos,2026-01-29
+1537,Feminino,1999-12-30,26,18-29,São Paulo,2026-01-30
+1538,Masculino,1994-12-07,31,30-44,São Paulo,2026-01-30
+1539,Masculino,1981-10-01,45,45-59,São Bernardo do Campo,2026-01-31
+1540,Masculino,2021-08-20,5,00-12,São Bernardo do Campo,2026-01-31
+1541,Feminino,2011-12-14,14,13-17,São Paulo,2026-02-01
+1542,Feminino,1984-06-20,42,30-44,Osasco,2026-02-01
+1543,Feminino,1965-12-07,60,60+,Santo André,2026-02-02
+1544,Feminino,1966-07-19,60,60+,São Paulo,2026-02-03
+1545,Feminino,2012-10-10,14,13-17,São Paulo,2026-02-03
+1546,Feminino,1983-05-21,43,30-44,São Paulo,2026-02-04
+1547,Feminino,2026-05-22,0,00-12,Guarulhos,2026-02-04
+1548,Masculino,1980-06-05,46,45-59,Guarulhos,2026-02-05
+1549,Masculino,1991-08-28,35,30-44,São Paulo,2026-02-06
+1550,Feminino,2014-03-31,12,00-12,Osasco,2026-02-07
+1551,Masculino,1976-12-04,49,45-59,São Paulo,2026-02-08
+1552,Feminino,1973-10-30,53,45-59,São Paulo,2026-02-10
+1553,Masculino,2026-04-05,0,00-12,São Bernardo do Campo,2026-02-10
+1554,Feminino,2016-01-19,10,00-12,São Paulo,2026-02-11
+1555,Feminino,1967-12-16,58,45-59,Taboão da Serra,2026-02-11
+1556,Masculino,1991-11-29,34,30-44,São Paulo,2026-02-12
+1557,Feminino,1950-08-19,76,60+,São Paulo,2026-02-13
+1558,Feminino,1975-06-20,51,45-59,Guarulhos,2026-02-13
+1559,Feminino,1975-11-25,50,45-59,São Paulo,2026-02-13
+1560,Feminino,1989-04-20,37,30-44,Guarulhos,2026-02-13
+1561,Feminino,1959-06-21,67,60+,São Paulo,2026-02-15
+1562,Feminino,1983-06-25,43,30-44,São Paulo,2026-02-15
+1563,Masculino,2019-08-24,7,00-12,São Bernardo do Campo,2026-02-16
+1564,Feminino,1958-03-10,68,60+,Osasco,2026-02-16
+1565,Masculino,2024-08-05,2,00-12,São Paulo,2026-02-17
+1566,Feminino,1980-01-29,46,45-59,São Paulo,2026-02-18
+1567,Feminino,2018-06-08,8,00-12,Guarulhos,2026-02-19
+1568,Feminino,2004-09-21,22,18-29,São Paulo,2026-02-19
+1569,Masculino,1973-11-03,52,45-59,São Paulo,2026-02-20
+1570,Feminino,1967-02-07,59,45-59,São Paulo,2026-02-20
+1571,Masculino,1991-11-29,34,30-44,São Paulo,2026-02-20
+1572,Feminino,1997-12-05,28,18-29,Osasco,2026-02-20
+1573,Feminino,1996-02-10,30,30-44,Barueri,2026-02-21
+1574,Feminino,2024-11-20,1,00-12,São Paulo,2026-02-21
+1575,Masculino,1970-04-01,56,45-59,São Paulo,2026-02-22
+1576,Masculino,1961-09-03,65,60+,Barueri,2026-02-22
+1577,Feminino,2025-06-16,1,00-12,São Paulo,2026-02-22
+1578,Masculino,1963-08-23,63,60+,Santo André,2026-02-24
+1579,Feminino,2021-10-24,5,00-12,São Paulo,2026-02-25
+1580,Masculino,2013-09-17,13,13-17,Guarulhos,2026-02-25
+1581,Feminino,2012-09-09,14,13-17,Barueri,2026-02-25
+1582,Masculino,1957-11-08,68,60+,Santo André,2026-02-27
+1583,Feminino,1982-04-28,44,30-44,São Paulo,2026-02-27
+1584,Masculino,1979-04-05,47,45-59,São Paulo,2026-02-27
+1585,Masculino,1977-08-20,49,45-59,São Paulo,2026-02-27
+1586,Feminino,1972-08-16,54,45-59,São Paulo,2026-02-27
+1587,Feminino,2013-09-22,13,13-17,São Paulo,2026-02-27
+1588,Feminino,2017-12-23,8,00-12,São Paulo,2026-03-01
+1589,Masculino,1982-11-09,43,30-44,São Paulo,2026-03-02
+1590,Masculino,1974-08-04,52,45-59,São Paulo,2026-03-02
+1591,Feminino,2006-07-27,20,18-29,Santo André,2026-03-02
+1592,Feminino,1991-12-19,34,30-44,São Bernardo do Campo,2026-03-02
+1593,Masculino,1973-03-07,53,45-59,Guarulhos,2026-03-03
+1594,Masculino,1979-10-22,47,45-59,Taboão da Serra,2026-03-03
+1595,Masculino,1952-03-31,74,60+,Guarulhos,2026-03-03
+1596,Feminino,1981-01-11,45,45-59,São Paulo,2026-03-05
+1597,Masculino,1981-08-02,45,45-59,São Paulo,2026-03-05
+1598,Masculino,2013-12-01,12,00-12,Guarulhos,2026-03-05
+1599,Masculino,1974-04-03,52,45-59,São Paulo,2026-03-06
+1600,Masculino,1975-11-23,50,45-59,São Paulo,2026-03-06
+1601,Masculino,1984-07-25,42,30-44,São Paulo,2026-03-06
+1602,Feminino,1999-11-12,26,18-29,São Paulo,2026-03-06
+1603,Masculino,1991-11-02,34,30-44,São Paulo,2026-03-07
+1604,Feminino,1986-05-17,40,30-44,Santo André,2026-03-08
+1605,Feminino,2012-04-01,14,13-17,São Paulo,2026-03-08
+1606,Feminino,1992-01-16,34,30-44,Osasco,2026-03-09
+1607,Feminino,1975-03-11,51,45-59,São Paulo,2026-03-09
+1608,Masculino,1974-01-20,52,45-59,Osasco,2026-03-09
+1609,Masculino,1975-08-28,51,45-59,Guarulhos,2026-03-09
+1610,Feminino,1977-01-14,49,45-59,São Paulo,2026-03-10
+1611,Feminino,1977-12-23,48,45-59,São Paulo,2026-03-11
+1612,Masculino,1968-06-29,58,45-59,São Paulo,2026-03-11
+1613,Masculino,1998-04-12,28,18-29,São Paulo,2026-03-12
+1614,Masculino,1950-10-02,76,60+,Guarulhos,2026-03-12
+1615,Masculino,2009-10-31,16,13-17,São Paulo,2026-03-13
+1616,Feminino,1999-06-27,27,18-29,Taboão da Serra,2026-03-14
+1617,Masculino,2003-10-31,23,18-29,São Paulo,2026-03-14
+1618,Masculino,1974-01-28,52,45-59,São Paulo,2026-03-14
+1619,Masculino,1991-11-12,34,30-44,Santo André,2026-03-15
+1620,Masculino,1983-01-16,43,30-44,Barueri,2026-03-15
+1621,Feminino,1999-06-10,27,18-29,Guarulhos,2026-03-15
+1622,Masculino,2021-03-04,5,00-12,São Paulo,2026-03-16
+1623,Feminino,1986-05-31,40,30-44,São Paulo,2026-03-16
+1624,Feminino,2007-02-27,19,18-29,Guarulhos,2026-03-17
+1625,Feminino,2009-10-31,16,13-17,São Paulo,2026-03-17
+1626,Masculino,1967-05-31,59,45-59,São Paulo,2026-03-18
+1627,Feminino,1973-06-27,53,45-59,São Bernardo do Campo,2026-03-18
+1628,Feminino,2021-08-08,5,00-12,Santo André,2026-03-18
+1629,Feminino,1981-03-19,45,45-59,Osasco,2026-03-19
+1630,Feminino,1987-10-02,39,30-44,São Paulo,2026-03-19
+1631,Masculino,1999-01-08,27,18-29,Guarulhos,2026-03-19
+1632,Masculino,1967-12-11,58,45-59,Osasco,2026-03-20
+1633,Feminino,1993-10-24,33,30-44,São Paulo,2026-03-20
+1634,Feminino,2002-04-16,24,18-29,Guarulhos,2026-03-20
+1635,Feminino,1976-09-17,50,45-59,São Paulo,2026-03-21
+1636,Masculino,1968-03-17,58,45-59,São Paulo,2026-03-21
+1637,Masculino,1971-09-22,55,45-59,Barueri,2026-03-21
+1638,Masculino,1993-10-03,33,30-44,Guarulhos,2026-03-21
+1639,Masculino,2015-08-03,11,00-12,Guarulhos,2026-03-22
+1640,Feminino,1988-05-08,38,30-44,São Paulo,2026-03-22
+1641,Feminino,1977-11-05,48,45-59,Barueri,2026-03-23
+1642,Masculino,1962-10-28,64,60+,São Paulo,2026-03-23
+1643,Feminino,1992-05-21,34,30-44,Barueri,2026-03-23
+1644,Feminino,1961-11-28,64,60+,Taboão da Serra,2026-03-24
+1645,Masculino,1973-05-13,53,45-59,São Bernardo do Campo,2026-03-24
+1646,Feminino,1977-09-21,49,45-59,Guarulhos,2026-03-25
+1647,Masculino,1982-09-15,44,30-44,Guarulhos,2026-03-25
+1648,Masculino,2012-04-01,14,13-17,Taboão da Serra,2026-03-25
+1649,Feminino,1976-03-07,50,45-59,Taboão da Serra,2026-03-26
+1650,Feminino,1969-06-12,57,45-59,São Paulo,2026-03-26
+1651,Masculino,1966-12-26,59,45-59,São Paulo,2026-03-27
+1652,Masculino,1982-12-12,43,30-44,Taboão da Serra,2026-03-28
+1653,Masculino,1968-03-27,58,45-59,São Paulo,2026-03-28
+1654,Masculino,1982-09-24,44,30-44,São Paulo,2026-03-29
+1655,Feminino,1983-05-24,43,30-44,Barueri,2026-03-29
+1656,Feminino,1975-12-23,50,45-59,São Paulo,2026-03-30
+1657,Feminino,1958-01-06,68,60+,São Bernardo do Campo,2026-03-30
+1658,Masculino,1997-04-29,29,18-29,São Paulo,2026-03-30
+1659,Feminino,1976-08-09,50,45-59,São Paulo,2026-03-30
+1660,Masculino,1992-09-10,34,30-44,Osasco,2026-03-30
+1661,Feminino,1988-06-28,38,30-44,São Paulo,2026-03-31
+1662,Masculino,1993-05-19,33,30-44,Guarulhos,2026-03-31
+1663,Feminino,1967-02-20,59,45-59,São Paulo,2026-04-01
+1664,Masculino,2014-07-03,12,00-12,São Paulo,2026-04-02
+1665,Feminino,1985-06-27,41,30-44,São Paulo,2026-04-04
+1666,Masculino,1997-03-26,29,18-29,São Paulo,2026-04-04
+1667,Feminino,1954-11-09,71,60+,Osasco,2026-04-04
+1668,Masculino,2025-04-09,1,00-12,Guarulhos,2026-04-04
+1669,Feminino,1978-09-12,48,45-59,São Paulo,2026-04-05
+1670,Feminino,1965-08-26,61,60+,São Paulo,2026-04-06
+1671,Feminino,2015-09-04,11,00-12,Osasco,2026-04-06
+1672,Feminino,1995-12-06,30,30-44,São Paulo,2026-04-07
+1673,Feminino,1995-08-21,31,30-44,Santo André,2026-04-07
+1674,Masculino,1990-10-26,36,30-44,São Paulo,2026-04-08
+1675,Feminino,2005-07-09,21,18-29,São Paulo,2026-04-09
+1676,Masculino,1984-09-04,42,30-44,Santo André,2026-04-10
+1677,Masculino,1970-10-22,56,45-59,São Paulo,2026-04-10
+1678,Feminino,1992-09-25,34,30-44,Osasco,2026-04-11
+1679,Feminino,1980-12-03,45,45-59,São Paulo,2026-04-11
+1680,Feminino,1981-09-13,45,45-59,São Paulo,2026-04-11
+1681,Masculino,2009-10-31,16,13-17,Guarulhos,2026-04-11
+1682,Feminino,1991-01-02,35,30-44,São Paulo,2026-04-12
+1683,Feminino,1973-07-21,53,45-59,São Paulo,2026-04-12
+1684,Feminino,2009-10-31,16,13-17,São Paulo,2026-04-12
+1685,Feminino,1978-03-02,48,45-59,São Paulo,2026-04-13
+1686,Feminino,1980-05-25,46,45-59,Barueri,2026-04-13
+1687,Masculino,1974-11-29,51,45-59,Osasco,2026-04-14
+1688,Feminino,1985-07-14,41,30-44,São Paulo,2026-04-14
+1689,Masculino,1973-12-23,52,45-59,São Paulo,2026-04-15
+1690,Masculino,2019-09-13,7,00-12,São Bernardo do Campo,2026-04-15
+1691,Feminino,1997-10-12,29,18-29,São Paulo,2026-04-18
+1692,Masculino,1994-02-09,32,30-44,São Paulo,2026-04-18
+1693,Masculino,2017-01-23,9,00-12,São Paulo,2026-04-19
+1694,Feminino,1986-02-10,40,30-44,São Paulo,2026-04-20
+1695,Masculino,2013-04-23,13,13-17,Santo André,2026-04-21
+1696,Masculino,2022-01-11,4,00-12,São Paulo,2026-04-21
+1697,Feminino,1984-12-23,41,30-44,Guarulhos,2026-04-21
+1698,Feminino,2007-05-06,19,18-29,São Paulo,2026-04-22
+1699,Feminino,1973-09-26,53,45-59,São Paulo,2026-04-23
+1700,Masculino,2021-04-13,5,00-12,São Paulo,2026-04-23
+1701,Masculino,1988-11-01,37,30-44,São Paulo,2026-04-23
+1702,Feminino,2015-10-18,11,00-12,Barueri,2026-04-25
+1703,Feminino,1989-01-05,37,30-44,São Paulo,2026-04-25
+1704,Masculino,1984-04-23,42,30-44,Taboão da Serra,2026-04-26
+1705,Masculino,1982-01-16,44,30-44,Osasco,2026-04-26
+1706,Masculino,1976-10-26,50,45-59,São Paulo,2026-04-26
+1707,Feminino,1994-08-17,32,30-44,São Paulo,2026-04-26
+1708,Feminino,1988-08-16,38,30-44,Santo André,2026-04-27
+1709,Feminino,2003-08-07,23,18-29,Guarulhos,2026-04-27
+1710,Feminino,1969-09-29,57,45-59,Guarulhos,2026-04-28
+1711,Masculino,1992-10-18,34,30-44,Guarulhos,2026-04-28
+1712,Feminino,2004-05-19,22,18-29,São Bernardo do Campo,2026-04-29
+1713,Feminino,1978-09-21,48,45-59,São Paulo,2026-04-29
+1714,Feminino,1979-11-03,46,45-59,São Paulo,2026-04-29
+1715,Feminino,2016-05-31,10,00-12,Santo André,2026-04-30
+1716,Feminino,1969-07-25,57,45-59,São Paulo,2026-04-30
+1717,Feminino,2002-08-04,24,18-29,São Bernardo do Campo,2026-05-01
+1718,Masculino,1969-11-08,56,45-59,São Paulo,2026-05-01
+1719,Feminino,1972-08-16,54,45-59,São Paulo,2026-05-01
+1720,Feminino,1997-07-13,29,18-29,São Paulo,2026-05-01
+1721,Masculino,2003-04-04,23,18-29,São Paulo,2026-05-01
+1722,Masculino,1993-04-18,33,30-44,São Paulo,2026-05-01
+1723,Masculino,2000-07-18,26,18-29,São Paulo,2026-05-03
+1724,Masculino,2008-05-26,18,18-29,São Paulo,2026-05-03
+1725,Masculino,1981-02-14,45,45-59,Guarulhos,2026-05-03
+1726,Masculino,1987-03-14,39,30-44,São Paulo,2026-05-04
+1727,Feminino,1974-07-31,52,45-59,São Paulo,2026-05-04
+1728,Feminino,1975-11-04,50,45-59,São Bernardo do Campo,2026-05-04
+1729,Masculino,1975-12-22,50,45-59,Guarulhos,2026-05-05
+1730,Feminino,1964-11-11,61,60+,São Paulo,2026-05-05
+1731,Masculino,1994-08-25,32,30-44,São Paulo,2026-05-05
+1732,Feminino,1994-03-24,32,30-44,Taboão da Serra,2026-05-05
+1733,Feminino,1986-05-17,40,30-44,São Paulo,2026-05-05
+1734,Feminino,2013-03-19,13,13-17,São Paulo,2026-05-05
+1735,Feminino,2012-10-20,14,13-17,São Paulo,2026-05-06
+1736,Feminino,1987-08-15,39,30-44,São Bernardo do Campo,2026-05-06
+1737,Feminino,1973-08-27,53,45-59,São Paulo,2026-05-08
+1738,Feminino,1977-05-10,49,45-59,São Paulo,2026-05-09
+1739,Masculino,1993-11-01,32,30-44,São Paulo,2026-05-09
+1740,Feminino,2009-10-31,16,13-17,São Paulo,2026-05-10
+1741,Masculino,1978-06-16,48,45-59,São Paulo,2026-05-10
+1742,Masculino,1988-04-29,38,30-44,São Paulo,2026-05-11
+1743,Feminino,1996-10-22,30,30-44,Taboão da Serra,2026-05-12
+1744,Feminino,1980-10-18,46,45-59,São Bernardo do Campo,2026-05-13
+1745,Feminino,1981-07-18,45,45-59,São Paulo,2026-05-13
+1746,Masculino,2009-10-31,16,13-17,Guarulhos,2026-05-13
+1747,Feminino,1964-11-21,61,60+,Barueri,2026-05-13
+1748,Masculino,1985-03-27,41,30-44,São Paulo,2026-05-14
+1749,Masculino,1984-08-05,42,30-44,Guarulhos,2026-05-14
+1750,Feminino,1985-09-15,41,30-44,São Paulo,2026-05-14
+1751,Feminino,1979-09-15,47,45-59,São Paulo,2026-05-15
+1752,Feminino,1987-12-30,38,30-44,São Paulo,2026-05-15
+1753,Feminino,2005-06-29,21,18-29,Osasco,2026-05-15
+1754,Feminino,1963-07-03,63,60+,São Paulo,2026-05-16
+1755,Feminino,1977-09-18,49,45-59,Guarulhos,2026-05-16
+1756,Masculino,2016-09-16,10,00-12,São Paulo,2026-05-17
+1757,Feminino,2023-07-14,3,00-12,São Paulo,2026-05-17
+1758,Feminino,1998-05-14,28,18-29,Barueri,2026-05-18
+1759,Feminino,1995-07-23,31,30-44,São Paulo,2026-05-19
+1760,Feminino,1982-05-17,44,30-44,São Paulo,2026-05-19
+1761,Feminino,1960-04-15,66,60+,Santo André,2026-05-19
+1762,Feminino,2009-10-31,16,13-17,São Paulo,2026-05-19
+1763,Feminino,1979-12-17,46,45-59,São Paulo,2026-05-19
+1764,Feminino,1991-10-21,35,30-44,São Paulo,2026-05-20
+1765,Feminino,2009-10-31,16,13-17,São Paulo,2026-05-21
+1766,Feminino,2022-09-22,4,00-12,São Bernardo do Campo,2026-05-23
+1767,Masculino,2016-03-04,10,00-12,São Paulo,2026-05-23
+1768,Feminino,1960-03-21,66,60+,São Bernardo do Campo,2026-05-24
+1769,Feminino,1993-06-09,33,30-44,Barueri,2026-05-25
+1770,Feminino,1982-05-04,44,30-44,São Paulo,2026-05-25
+1771,Masculino,2024-05-26,2,00-12,São Paulo,2026-05-26
+1772,Feminino,1988-11-13,37,30-44,São Paulo,2026-05-26
+1773,Masculino,2008-05-29,18,18-29,São Paulo,2026-05-27
+1774,Feminino,1989-02-14,37,30-44,São Paulo,2026-05-27
+1775,Masculino,2009-10-31,16,13-17,São Paulo,2026-05-27
+1776,Feminino,2009-10-31,16,13-17,São Paulo,2026-05-28
+1777,Feminino,1955-05-13,71,60+,São Paulo,2026-05-28
+1778,Masculino,2015-06-15,11,00-12,São Paulo,2026-05-28
+1779,Feminino,1990-09-07,36,30-44,Barueri,2026-05-31
+1780,Feminino,2016-10-14,10,00-12,Osasco,2026-06-01
+1781,Feminino,2009-09-08,17,13-17,São Paulo,2026-06-01
+1782,Masculino,1978-09-21,48,45-59,São Paulo,2026-06-02
+1783,Feminino,1963-11-07,62,60+,São Paulo,2026-06-02
+1784,Masculino,1971-07-08,55,45-59,São Paulo,2026-06-02
+1785,Feminino,1980-07-31,46,45-59,São Paulo,2026-06-03
+1786,Masculino,1994-01-22,32,30-44,Barueri,2026-06-03
+1787,Feminino,1988-10-24,38,30-44,São Bernardo do Campo,2026-06-04
+1788,Feminino,1983-07-22,43,30-44,São Paulo,2026-06-04
+1789,Feminino,1970-02-02,56,45-59,São Paulo,2026-06-05
+1790,Feminino,1964-06-24,62,60+,Osasco,2026-06-05
+1791,Masculino,1980-09-20,46,45-59,Barueri,2026-06-05
+1792,Masculino,1944-02-28,82,60+,São Paulo,2026-06-05
+1793,Masculino,1992-02-16,34,30-44,São Paulo,2026-06-06
+1794,Feminino,1981-01-22,45,45-59,São Paulo,2026-06-07
+1795,Feminino,2022-01-03,4,00-12,São Bernardo do Campo,2026-06-08
+1796,Masculino,1983-05-10,43,30-44,Osasco,2026-06-08
+1797,Masculino,1970-05-16,56,45-59,Guarulhos,2026-06-08
+1798,Masculino,1976-05-19,50,45-59,São Paulo,2026-06-10
+1799,Feminino,1974-05-04,52,45-59,São Paulo,2026-06-10
+1800,Feminino,1966-09-15,60,60+,São Paulo,2026-06-10
+1801,Masculino,2021-10-09,5,00-12,São Paulo,2026-06-11
+1802,Masculino,1960-09-16,66,60+,Barueri,2026-06-11
+1803,Feminino,2021-05-09,5,00-12,Osasco,2026-06-11
+1804,Masculino,1956-11-11,69,60+,São Paulo,2026-06-12
+1805,Masculino,1973-06-13,53,45-59,Taboão da Serra,2026-06-13
+1806,Feminino,2023-03-29,3,00-12,Guarulhos,2026-06-14
+1807,Masculino,2023-04-26,3,00-12,São Paulo,2026-06-15
+1808,Masculino,1967-03-31,59,45-59,São Paulo,2026-06-16
+1809,Masculino,2009-10-31,16,13-17,Guarulhos,2026-06-16
+1810,Masculino,2021-12-21,4,00-12,São Paulo,2026-06-17
+1811,Feminino,2006-01-26,20,18-29,São Paulo,2026-06-17
+1812,Masculino,1990-08-05,36,30-44,São Paulo,2026-06-17
+1813,Masculino,2013-07-22,13,13-17,São Paulo,2026-06-17
+1814,Feminino,1982-09-25,44,30-44,São Bernardo do Campo,2026-06-18
+1815,Feminino,2009-10-31,16,13-17,Taboão da Serra,2026-06-18
+1816,Feminino,1983-09-22,43,30-44,São Paulo,2026-06-18
+1817,Masculino,1984-11-16,41,30-44,São Paulo,2026-06-19
+1818,Feminino,1975-01-05,51,45-59,São Paulo,2026-06-19
+1819,Masculino,1983-07-14,43,30-44,Barueri,2026-06-19
+1820,Masculino,1975-03-01,51,45-59,Osasco,2026-06-19
+1821,Masculino,1963-02-13,63,60+,Osasco,2026-06-20
+1822,Feminino,2012-12-27,13,13-17,Osasco,2026-06-22
+1823,Masculino,1997-12-23,28,18-29,Santo André,2026-06-22
+1824,Masculino,1951-03-01,75,60+,São Paulo,2026-06-22
+1825,Feminino,2020-09-11,6,00-12,São Paulo,2026-06-23
+1826,Feminino,1966-02-28,60,60+,Guarulhos,2026-06-23
+1827,Masculino,1991-12-29,34,30-44,Osasco,2026-06-24
+1828,Feminino,1968-06-25,58,45-59,Santo André,2026-06-25
+1829,Masculino,1984-06-04,42,30-44,Guarulhos,2026-06-25
+1830,Masculino,2004-09-14,22,18-29,Osasco,2026-06-25
+1831,Masculino,1961-05-05,65,60+,São Paulo,2026-06-25
+1832,Feminino,2016-09-09,10,00-12,São Paulo,2026-06-26
+1833,Feminino,1976-08-02,50,45-59,São Paulo,2026-06-26
+1834,Masculino,1952-04-20,74,60+,São Paulo,2026-06-27
+1835,Feminino,1983-11-26,42,30-44,Taboão da Serra,2026-06-28
+1836,Feminino,1982-04-04,44,30-44,São Bernardo do Campo,2026-06-28
+1837,Masculino,1987-07-07,39,30-44,São Paulo,2026-06-28
+1838,Masculino,2022-04-27,4,00-12,Osasco,2026-06-29
+1839,Feminino,1993-04-02,33,30-44,Santo André,2026-06-30
+1840,Feminino,1985-11-03,40,30-44,Guarulhos,2026-07-01
+1841,Feminino,1983-10-01,43,30-44,Guarulhos,2026-07-02
+1842,Masculino,1968-03-24,58,45-59,São Paulo,2026-07-02
+1843,Masculino,1992-02-23,34,30-44,São Paulo,2026-07-03
+1844,Feminino,1994-07-13,32,30-44,São Paulo,2026-07-03
+1845,Masculino,1991-05-27,35,30-44,São Paulo,2026-07-05
+1846,Feminino,1989-09-24,37,30-44,Guarulhos,2026-07-05
+1847,Feminino,2023-06-25,3,00-12,São Paulo,2026-07-06
+1848,Feminino,1970-01-12,56,45-59,Guarulhos,2026-07-06
+1849,Masculino,1986-04-17,40,30-44,São Paulo,2026-07-06
+1850,Masculino,1988-04-09,38,30-44,São Paulo,2026-07-06
+1851,Feminino,2009-10-31,16,13-17,Guarulhos,2026-07-07
+1852,Feminino,2020-12-15,5,00-12,São Paulo,2026-07-09
+1853,Feminino,1997-12-30,28,18-29,Barueri,2026-07-09
+1854,Feminino,1990-09-27,36,30-44,São Paulo,2026-07-11
+1855,Feminino,2008-03-21,18,18-29,São Paulo,2026-07-12
+1856,Feminino,1969-03-06,57,45-59,Barueri,2026-07-13
+1857,Masculino,1998-12-18,27,18-29,São Bernardo do Campo,2026-07-13
+1858,Masculino,2021-11-02,4,00-12,São Paulo,2026-07-14
+1859,Feminino,2013-06-24,13,13-17,Guarulhos,2026-07-14
+1860,Masculino,1994-11-24,31,30-44,São Paulo,2026-07-15
+1861,Masculino,1948-07-21,78,60+,Guarulhos,2026-07-15
+1862,Feminino,1974-09-26,52,45-59,São Paulo,2026-07-15
+1863,Masculino,2022-08-24,4,00-12,Taboão da Serra,2026-07-16
+1864,Feminino,2023-05-28,3,00-12,Osasco,2026-07-17
+1865,Feminino,2022-10-12,4,00-12,São Bernardo do Campo,2026-07-17
+1866,Feminino,2020-03-20,6,00-12,São Paulo,2026-07-18
+1867,Masculino,1961-12-27,64,60+,São Paulo,2026-07-19
+1868,Masculino,2019-11-14,6,00-12,Osasco,2026-07-19
+1869,Feminino,1977-02-28,49,45-59,São Paulo,2026-07-19
+1870,Feminino,1978-05-28,48,45-59,São Paulo,2026-07-20
+1871,Feminino,2024-11-04,1,00-12,São Paulo,2026-07-21
+1872,Masculino,2009-10-31,16,13-17,São Paulo,2026-07-21
+1873,Masculino,1976-01-24,50,45-59,São Bernardo do Campo,2026-07-21
+1874,Feminino,1970-09-21,56,45-59,São Paulo,2026-07-22
+1875,Masculino,1988-03-27,38,30-44,São Paulo,2026-07-22
+1876,Masculino,2018-04-26,8,00-12,São Paulo,2026-07-22
+1877,Masculino,1969-02-21,57,45-59,São Paulo,2026-07-23
+1878,Masculino,1994-12-23,31,30-44,Osasco,2026-07-23
+1879,Feminino,1981-07-03,45,45-59,São Paulo,2026-07-24
+1880,Masculino,1970-03-16,56,45-59,Santo André,2026-07-25
+1881,Feminino,1996-04-22,30,30-44,Guarulhos,2026-07-25
+1882,Feminino,2015-05-13,11,00-12,Barueri,2026-07-26
+1883,Masculino,1993-09-11,33,30-44,Barueri,2026-07-26
+1884,Feminino,1960-03-22,66,60+,São Paulo,2026-07-27
+1885,Feminino,1960-11-26,65,60+,São Paulo,2026-07-27
+1886,Masculino,1996-11-11,29,18-29,São Paulo,2026-07-28
+1887,Feminino,2023-07-23,3,00-12,São Paulo,2026-07-28
+1888,Feminino,2004-07-07,22,18-29,São Paulo,2026-07-28
+1889,Feminino,2016-06-23,10,00-12,São Paulo,2026-07-29
+1890,Feminino,1992-03-03,34,30-44,São Bernardo do Campo,2026-07-29
+1891,Masculino,1962-03-11,64,60+,Osasco,2026-07-29
+1892,Feminino,2012-09-19,14,13-17,São Paulo,2026-07-31
+1893,Masculino,1978-06-09,48,45-59,São Paulo,2026-07-31
+1894,Masculino,2005-09-05,21,18-29,São Paulo,2026-08-01
+1895,Feminino,1984-09-14,42,30-44,São Paulo,2026-08-03
+1896,Feminino,1976-04-09,50,45-59,São Paulo,2026-08-03
+1897,Masculino,1994-06-11,32,30-44,São Paulo,2026-08-03
+1898,Feminino,2022-08-08,4,00-12,São Paulo,2026-08-05
+1899,Feminino,1976-10-26,50,45-59,São Paulo,2026-08-05
+1900,Masculino,2024-05-13,2,00-12,São Paulo,2026-08-05
+1901,Masculino,1985-05-28,41,30-44,Guarulhos,2026-08-06
+1902,Masculino,2021-04-23,5,00-12,Santo André,2026-08-07
+1903,Masculino,1972-10-25,54,45-59,São Paulo,2026-08-07
+1904,Masculino,1988-07-10,38,30-44,Guarulhos,2026-08-07
+1905,Feminino,1960-08-12,66,60+,São Paulo,2026-08-08
+1906,Masculino,1969-08-30,57,45-59,Osasco,2026-08-08
+1907,Masculino,1986-01-31,40,30-44,Osasco,2026-08-08
+1908,Feminino,2013-07-10,13,13-17,São Paulo,2026-08-08
+1909,Feminino,2013-11-30,12,00-12,Osasco,2026-08-08
+1910,Feminino,2009-10-31,16,13-17,Osasco,2026-08-08
+1911,Feminino,1989-02-15,37,30-44,Barueri,2026-08-09
+1912,Feminino,1997-11-07,28,18-29,São Bernardo do Campo,2026-08-09
+1913,Feminino,1994-08-30,32,30-44,Taboão da Serra,2026-08-10
+1914,Feminino,1987-12-22,38,30-44,São Paulo,2026-08-10
+1915,Feminino,2000-04-26,26,18-29,São Paulo,2026-08-10
+1916,Masculino,1984-03-03,42,30-44,São Paulo,2026-08-11
+1917,Masculino,1972-12-05,53,45-59,São Paulo,2026-08-11
+1918,Masculino,1984-10-26,42,30-44,Santo André,2026-08-11
+1919,Masculino,1961-09-30,65,60+,São Paulo,2026-08-11
+1920,Masculino,2020-06-12,6,00-12,São Paulo,2026-08-13
+1921,Masculino,2021-12-29,4,00-12,São Paulo,2026-08-13
+1922,Masculino,1992-08-13,34,30-44,Guarulhos,2026-08-13
+1923,Masculino,1981-05-24,45,45-59,São Paulo,2026-08-14
+1924,Feminino,2024-09-24,2,00-12,São Paulo,2026-08-15
+1925,Masculino,1976-04-24,50,45-59,Taboão da Serra,2026-08-15
+1926,Feminino,2014-06-03,12,00-12,São Paulo,2026-08-15
+1927,Masculino,1990-12-13,35,30-44,São Paulo,2026-08-16
+1928,Masculino,2006-10-24,20,18-29,São Paulo,2026-08-16
+1929,Masculino,1964-11-03,61,60+,São Paulo,2026-08-17
+1930,Masculino,2024-11-17,1,00-12,São Paulo,2026-08-17
+1931,Masculino,1979-07-01,47,45-59,São Bernardo do Campo,2026-08-18
+1932,Feminino,1983-12-02,42,30-44,Santo André,2026-08-18
+1933,Masculino,1997-08-11,29,18-29,São Paulo,2026-08-18
+1934,Masculino,2001-09-07,25,18-29,Barueri,2026-08-19
+1935,Masculino,1975-04-01,51,45-59,São Paulo,2026-08-20
+1936,Masculino,1977-07-26,49,45-59,São Paulo,2026-08-20
+1937,Feminino,1968-01-21,58,45-59,São Paulo,2026-08-20
+1938,Masculino,1974-01-13,52,45-59,Osasco,2026-08-21
+1939,Masculino,1984-07-21,42,30-44,Santo André,2026-08-21
+1940,Feminino,2002-07-26,24,18-29,São Paulo,2026-08-22
+1941,Feminino,1968-10-10,58,45-59,Taboão da Serra,2026-08-22
+1942,Masculino,1985-05-31,41,30-44,São Paulo,2026-08-22
+1943,Masculino,1972-02-09,54,45-59,Taboão da Serra,2026-08-22
+1944,Feminino,1992-12-06,33,30-44,São Paulo,2026-08-23
+1945,Feminino,2008-03-10,18,18-29,Taboão da Serra,2026-08-23
+1946,Masculino,1992-08-24,34,30-44,Osasco,2026-08-23
+1947,Masculino,2019-09-14,7,00-12,São Paulo,2026-08-23
+1948,Feminino,1996-01-15,30,30-44,São Paulo,2026-08-23
+1949,Feminino,1995-07-14,31,30-44,São Paulo,2026-08-23
+1950,Masculino,2023-04-22,3,00-12,São Paulo,2026-08-24
+1951,Masculino,2015-09-29,11,00-12,São Paulo,2026-08-24
+1952,Masculino,1971-12-13,54,45-59,Guarulhos,2026-08-24
+1953,Feminino,2005-01-25,21,18-29,São Paulo,2026-08-25
+1954,Feminino,2023-12-15,2,00-12,Santo André,2026-08-25
+1955,Masculino,1969-07-08,57,45-59,São Paulo,2026-08-25
+1956,Masculino,2008-10-18,18,18-29,Guarulhos,2026-08-26
+1957,Masculino,2017-05-10,9,00-12,São Paulo,2026-08-26
+1958,Masculino,1953-10-23,73,60+,São Paulo,2026-08-26
+1959,Masculino,2003-07-25,23,18-29,Osasco,2026-08-26
+1960,Feminino,2006-10-03,20,18-29,São Paulo,2026-08-26
+1961,Masculino,2024-07-31,2,00-12,São Paulo,2026-08-26
+1962,Masculino,1956-01-08,70,60+,Barueri,2026-08-27
+1963,Feminino,1977-11-12,48,45-59,São Paulo,2026-08-27
+1964,Feminino,1990-07-01,36,30-44,Osasco,2026-08-27
+1965,Feminino,1993-01-02,33,30-44,Taboão da Serra,2026-08-27
+1966,Feminino,2002-02-22,24,18-29,São Paulo,2026-08-28
+1967,Feminino,2014-04-24,12,00-12,São Paulo,2026-08-29
+1968,Feminino,2022-06-28,4,00-12,Guarulhos,2026-08-29
+1969,Masculino,2017-02-21,9,00-12,São Paulo,2026-08-30
+1970,Masculino,2014-06-26,12,00-12,São Paulo,2026-08-30
+1971,Masculino,2002-12-19,23,18-29,São Paulo,2026-08-30
+1972,Feminino,1984-11-01,41,30-44,São Paulo,2026-08-30
+1973,Masculino,2000-08-22,26,18-29,São Paulo,2026-08-31
+1974,Masculino,2004-06-09,22,18-29,Osasco,2026-09-01
+1975,Masculino,1995-06-28,31,30-44,São Paulo,2026-09-02
+1976,Feminino,1978-03-01,48,45-59,São Paulo,2026-09-02
+1977,Masculino,1977-05-31,49,45-59,São Paulo,2026-09-02
+1978,Feminino,1966-10-23,60,60+,São Paulo,2026-09-04
+1979,Masculino,1994-04-08,32,30-44,Santo André,2026-09-04
+1980,Masculino,1975-06-13,51,45-59,São Paulo,2026-09-04
+1981,Feminino,1979-10-08,47,45-59,São Paulo,2026-09-04
+1982,Feminino,1971-02-11,55,45-59,Guarulhos,2026-09-05
+1983,Feminino,1989-04-14,37,30-44,Santo André,2026-09-06
+1984,Masculino,1997-06-26,29,18-29,São Paulo,2026-09-06
+1985,Masculino,1980-12-16,45,45-59,São Paulo,2026-09-06
+1986,Feminino,1972-10-19,54,45-59,Santo André,2026-09-07
+1987,Feminino,1981-08-30,45,45-59,Guarulhos,2026-09-07
+1988,Masculino,1971-04-20,55,45-59,Guarulhos,2026-09-07
+1989,Masculino,1949-11-20,76,60+,São Paulo,2026-09-07
+1990,Feminino,1975-11-04,50,45-59,São Paulo,2026-09-07
+1991,Masculino,1984-10-29,42,30-44,São Paulo,2026-09-08
+1992,Masculino,1986-10-08,40,30-44,Taboão da Serra,2026-09-08
+1993,Feminino,1975-03-03,51,45-59,Taboão da Serra,2026-09-09
+1994,Masculino,1967-12-16,58,45-59,São Paulo,2026-09-09
+1995,Feminino,2024-05-31,2,00-12,São Bernardo do Campo,2026-09-09
+1996,Masculino,2024-12-07,1,00-12,São Paulo,2026-09-10
+1997,Masculino,2003-12-30,22,18-29,Santo André,2026-09-10
+1998,Masculino,1989-10-08,37,30-44,São Paulo,2026-09-10
+1999,Masculino,1980-02-11,46,45-59,Osasco,2026-09-10
+2000,Feminino,1992-12-07,33,30-44,Guarulhos,2026-09-10
+2001,Masculino,1992-09-05,34,30-44,São Paulo,2026-09-11
+2002,Feminino,1996-12-18,29,18-29,São Paulo,2026-09-12
+2003,Masculino,1976-09-01,50,45-59,São Paulo,2026-09-13
+2004,Feminino,1975-09-22,51,45-59,São Bernardo do Campo,2026-09-13
+2005,Masculino,1989-02-02,37,30-44,São Paulo,2026-09-14
+2006,Feminino,1991-05-24,35,30-44,São Paulo,2026-09-14
+2007,Masculino,1966-01-08,60,60+,São Paulo,2026-09-14
+2008,Feminino,2024-12-10,1,00-12,São Paulo,2026-09-15
+2009,Feminino,2024-03-26,2,00-12,Taboão da Serra,2026-09-15
+2010,Feminino,1952-07-02,74,60+,Santo André,2026-09-15
+2011,Masculino,1993-12-18,32,30-44,São Paulo,2026-09-16
+2012,Masculino,1982-05-17,44,30-44,São Paulo,2026-09-16
+2013,Masculino,1966-03-20,60,60+,São Paulo,2026-09-17
+2014,Masculino,2025-01-17,1,00-12,São Bernardo do Campo,2026-09-17
+2015,Feminino,1988-09-09,38,30-44,São Bernardo do Campo,2026-09-18
+2016,Feminino,1980-12-17,45,45-59,Taboão da Serra,2026-09-19
+2017,Masculino,1964-09-24,62,60+,São Paulo,2026-09-19
+2018,Feminino,1997-01-10,29,18-29,Guarulhos,2026-09-21
+2019,Masculino,1971-12-31,54,45-59,Guarulhos,2026-09-21
+2020,Feminino,1970-10-28,56,45-59,Guarulhos,2026-09-21
+2021,Masculino,2020-02-24,6,00-12,São Paulo,2026-09-21
+2022,Masculino,1975-05-03,51,45-59,Guarulhos,2026-09-22
+2023,Feminino,1993-07-22,33,30-44,Guarulhos,2026-09-23
+2024,Masculino,1978-02-02,48,45-59,Barueri,2026-09-23
+2025,Feminino,2007-05-31,19,18-29,São Paulo,2026-09-23
+2026,Masculino,1983-10-02,43,30-44,Santo André,2026-09-23
+2027,Feminino,2009-10-31,16,13-17,Osasco,2026-09-24
+2028,Feminino,2025-12-03,0,00-12,São Paulo,2026-09-24
+2029,Masculino,1975-11-12,50,45-59,Osasco,2026-09-24
+2030,Masculino,1969-08-13,57,45-59,São Bernardo do Campo,2026-09-24
+2031,Masculino,1965-04-24,61,60+,São Paulo,2026-09-24
+2032,Feminino,1973-06-17,53,45-59,Santo André,2026-09-24
+2033,Masculino,1985-01-11,41,30-44,São Paulo,2026-09-25
+2034,Feminino,1981-07-24,45,45-59,Taboão da Serra,2026-09-26
+2035,Masculino,1967-10-28,59,45-59,São Paulo,2026-09-26
+2036,Masculino,2017-02-12,9,00-12,São Paulo,2026-09-26
+2037,Masculino,1975-09-04,51,45-59,São Paulo,2026-09-26
+2038,Feminino,1975-09-30,51,45-59,Taboão da Serra,2026-09-26
+2039,Masculino,1967-02-27,59,45-59,São Paulo,2026-09-26
+2040,Feminino,1975-08-29,51,45-59,São Paulo,2026-09-27
+2041,Masculino,2012-05-25,14,13-17,São Paulo,2026-09-27
+2042,Masculino,2002-01-18,24,18-29,São Paulo,2026-09-27
+2043,Feminino,1976-06-23,50,45-59,Osasco,2026-09-27
+2044,Masculino,2026-05-16,0,00-12,São Paulo,2026-09-28
+2045,Feminino,1989-03-15,37,30-44,São Paulo,2026-09-28
+2046,Feminino,1954-03-20,72,60+,Barueri,2026-09-28
+2047,Masculino,1978-10-27,48,45-59,Guarulhos,2026-09-29
+2048,Masculino,1983-04-16,43,30-44,São Paulo,2026-09-30
+2049,Masculino,1972-11-03,53,45-59,São Paulo,2026-10-01
+2050,Masculino,1982-12-24,43,30-44,Guarulhos,2026-10-02
+2051,Feminino,1983-03-19,43,30-44,Guarulhos,2026-10-02
+2052,Masculino,1983-01-26,43,30-44,São Paulo,2026-10-03
+2053,Feminino,2009-10-31,16,13-17,São Paulo,2026-10-03
+2054,Feminino,2016-08-25,10,00-12,São Paulo,2026-10-03
+2055,Feminino,1992-06-03,34,30-44,São Paulo,2026-10-03
+2056,Masculino,1977-05-09,49,45-59,Osasco,2026-10-04
+2057,Feminino,2025-02-06,1,00-12,São Paulo,2026-10-05
+2058,Feminino,1967-07-15,59,45-59,São Paulo,2026-10-06
+2059,Masculino,1985-09-30,41,30-44,Taboão da Serra,2026-10-07
+2060,Masculino,1996-03-27,30,30-44,São Paulo,2026-10-09
+2061,Masculino,2018-07-19,8,00-12,Guarulhos,2026-10-09
+2062,Feminino,1975-11-21,50,45-59,São Paulo,2026-10-11
+2063,Feminino,2023-11-17,2,00-12,São Paulo,2026-10-11
+2064,Feminino,2020-06-06,6,00-12,Santo André,2026-10-11
+2065,Masculino,1960-07-06,66,60+,São Paulo,2026-10-11
+2066,Masculino,1973-06-29,53,45-59,São Paulo,2026-10-11
+2067,Masculino,1977-10-21,49,45-59,Osasco,2026-10-13
+2068,Masculino,1995-03-23,31,30-44,São Paulo,2026-10-13
+2069,Feminino,2014-03-09,12,00-12,São Paulo,2026-10-14
+2070,Masculino,1997-11-22,28,18-29,São Paulo,2026-10-14
+2071,Feminino,1964-10-05,62,60+,Osasco,2026-10-14
+2072,Masculino,1954-01-22,72,60+,Taboão da Serra,2026-10-15
+2073,Masculino,1975-03-21,51,45-59,São Paulo,2026-10-15
+2074,Feminino,1970-05-30,56,45-59,São Paulo,2026-10-15
+2075,Masculino,1985-04-13,41,30-44,São Paulo,2026-10-16
+2076,Feminino,1967-02-02,59,45-59,São Paulo,2026-10-16
+2077,Feminino,2015-11-16,10,00-12,São Paulo,2026-10-17
+2078,Masculino,2006-10-05,20,18-29,São Paulo,2026-10-17
+2079,Masculino,2024-01-28,2,00-12,São Paulo,2026-10-18
+2080,Masculino,1980-05-27,46,45-59,São Paulo,2026-10-19
+2081,Masculino,1984-05-07,42,30-44,São Paulo,2026-10-24
+2082,Feminino,1982-04-27,44,30-44,Guarulhos,2026-10-24
+2083,Feminino,1975-11-17,50,45-59,São Paulo,2026-10-27
+2084,Feminino,2023-09-07,3,00-12,São Paulo,2026-10-28
+2085,Masculino,1979-11-01,46,45-59,São Paulo,2026-10-28

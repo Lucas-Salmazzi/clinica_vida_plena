@@ -1,0 +1,13 @@
+id_medico,nome_medico,especialidade,tipo_vinculo,data_contratacao
+1,Dra. Helena Duarte,Clínica Geral,Sócio,2019-03-04
+2,Dr. Marcos Tavares,Clínica Geral,CLT,2021-08-16
+3,Dra. Beatriz Nogueira,Pediatria,Sócio,2019-03-04
+4,Dr. Caio Albuquerque,Pediatria,PJ,2022-02-07
+5,Dr. Rodrigo Siqueira,Cardiologia,PJ,2020-06-01
+6,Dra. Marina Vasconcelos,Dermatologia,PJ,2021-01-11
+7,Dr. Rafael Moura,Ortopedia,PJ,2022-09-05
+8,Dra. Larissa Campos,Ginecologia,CLT,2020-10-19
+9,Dra. Patrícia Lemos,Ginecologia,PJ,2023-04-03
+10,Dr. André Barreto,Endocrinologia,PJ,2023-01-09
+11,Dra. Juliana Prado,Oftalmologia,PJ,2022-05-23
+12,Dr. Felipe Cardoso,Psiquiatria,PJ,2024-02-05
